@@ -1,0 +1,72 @@
+{
+  "spider": {
+    "name": "Giant Monster Spiders Free Sample - Squinty",
+    "creator": "Easy Forge",
+    "source": "https://easyforge.itch.io/giant-monster-spiders-free-sample",
+    "license_file": "Licenses/Monsters/Easyforge_Spider_License.txt",
+    "content_root": "/Game/Art/Monsters/Spider",
+    "production_sources": [
+      {
+        "path": "SourceArt/Monsters/Spider/Meshes/squinty.glb",
+        "sha256": "d41caa647c286e31834bd0e5be394b565eb52deadf7d085857ad2ccf8ecdbd45"
+      },
+      {
+        "path": "SourceArt/Monsters/Spider/Meshes/squinty_LOD1.glb",
+        "sha256": "29f3d3bff81de211226bdb6329c2c7a8e304b39682a29231aa1e412412049871"
+      },
+      {
+        "path": "SourceArt/Monsters/Spider/Meshes/squinty_LOD2.glb",
+        "sha256": "1f1234eb0871efc62f0bbac416559fc7b0d22ad51f0b2cbd5e8d088adca87f73"
+      },
+      {
+        "path": "SourceArt/Monsters/Spider/Metadata/squinty_info.json",
+        "sha256": "945cd95e7d88ae8bd12d35bdd46088ecccded53d5faaa1bc79229b63bc1cea92"
+      },
+      {
+        "path": "SourceArt/Monsters/Spider/Metadata/squinty.easyspider.json",
+        "sha256": "2b4b369ffa4d2a47de01fcdfe8296dcc228a538dd3387335c3fc3d5315800edd"
+      }
+    ],
+    "original_archive_sha256": "573ebc6b4c75ab8918409ca9894c6cdfc0128cbc366a9d097039a7e89b1f3abf",
+    "import_format": "glTF binary 2.0, UE native Interchange",
+    "notes": [
+      "Body glb includes 24 clips, skeleton and embedded textures.",
+      "LOD1 and LOD2 are authored source meshes, not new procedural reductions.",
+      "Web assets are not imported because the current game does not use webs."
+    ]
+  },
+  "official_packs": [
+    {
+      "name": "Paragon Crunch",
+      "creator": "Epic Games",
+      "source": "https://www.fab.com/listings/c23ee3a7-4a73-4a83-9061-30b682d269f8",
+      "content_root": "/Game/Art/Monsters/Crunch",
+      "license": "Use under the entitlement and terms accepted for this Epic Games asset; do not use PARAGON as this game title or advertising trademark.",
+      "organization": "Moved with Unreal AssetTools; authored internal folders retained. Legacy UE4 Rig helpers are excluded because UE 5.8 cannot load them; original packages are archived outside the project."
+    },
+    {
+      "name": "Paragon Grux",
+      "creator": "Epic Games",
+      "source": "https://www.fab.com/listings/8c4bac2c-f7f7-4632-a644-47f4e104f5d8",
+      "content_root": "/Game/Art/Monsters/Grux",
+      "license": "Use under the entitlement and terms accepted for this Epic Games asset; do not use PARAGON as this game title or advertising trademark.",
+      "organization": "Moved with Unreal AssetTools; authored internal folders retained. Legacy UE4 Rig helpers are excluded because UE 5.8 cannot load them; original packages are archived outside the project."
+    },
+    {
+      "name": "Paragon Rampage",
+      "creator": "Epic Games",
+      "source": "https://www.fab.com/listings/0807cf74-08fd-4a33-8c8d-f33c9439fb1f",
+      "content_root": "/Game/Art/Monsters/Rampage",
+      "license": "Use under the entitlement and terms accepted for this Epic Games asset; do not use PARAGON as this game title or advertising trademark.",
+      "organization": "Moved with Unreal AssetTools; authored internal folders retained. Legacy UE4 Rig helpers are excluded because UE 5.8 cannot load them; original packages are archived outside the project."
+    },
+    {
+      "name": "Paragon Minions",
+      "creator": "Epic Games",
+      "source": "https://www.fab.com/listings/039ea035-9360-4e76-ad06-5d3a92da6f65",
+      "content_root": "/Game/Art/Monsters/Minions",
+      "license": "Use under the entitlement and terms accepted for this Epic Games asset; do not use PARAGON as this game title or advertising trademark.",
+      "organization": "Moved with Unreal AssetTools; authored internal folders retained. Legacy UE4 Rig helpers are excluded because UE 5.8 cannot load them; original packages are archived outside the project."
+    }
+  ]
+}

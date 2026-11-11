@@ -1,0 +1,51 @@
+Giant Monster Spiders
+ASSET LICENCE (version 1.0)
+Copyright (c) 2026 Easy Forge. All rights reserved except as set out below.
+
+This licence is between Easy Forge ("we", "us") and you, the person or company who bought or downloaded this pack
+("you"). By using the files in this pack (the "Assets") you agree to it.
+
+1. WHAT YOU MAY DO
+   You may, for as long as you like and anywhere in the world, with no further payment:
+   a) use the Assets in any number of your own projects: games, apps, films, animations, renders, VR and
+      architectural visualisation, free or commercial;
+   b) change them: edit, recolour, cut up, combine them with other work;
+   c) ship them as part of a finished project you release (for example, packed inside a game build);
+   d) let people who work with you on that project use them for it (team members and contractors).
+
+2. WHAT YOU MAY NOT DO
+   a) Sell, share, give away, sublicense or upload the Assets on their own, changed or not: in asset packs,
+      on asset stores or marketplaces, in free model libraries, or as source files people can download.
+   b) Make them the main thing you sell (for example, a print, an NFT, or a "model pack" built from them).
+   c) Claim you made them, or use them in a logo or trademark.
+   d) Use them to train, fine-tune or test AI or machine-learning models, or include them in a dataset.
+   Where your project lets people get at its files (for example, a mod kit or an open project), take reasonable
+   steps so the Assets can't simply be copied out and reused on their own.
+
+3. WHO OWNS WHAT
+   We keep the copyright in the Assets. You get this licence to use them, not ownership of them. What you make
+   with them is yours.
+
+4. HOW THE ASSETS WERE MADE
+   The Assets were made with our own procedural software, with the help of AI tools, and every one was checked
+   by a person before release. They contain no third-party models, textures or trademarks that we know of.
+
+5. NO WARRANTY, AND OUR LIABILITY
+   a) The Assets are provided "as is". We take care to describe them accurately, but we don't promise they suit
+      every purpose or work in every program.
+   b) As far as the law allows, our total liability to you for anything to do with the Assets is limited to the
+      price you paid for them.
+   c) Nothing in this licence limits liability that can't legally be limited (such as for fraud, or for death or
+      personal injury caused by negligence), and nothing in it affects your statutory rights as a consumer.
+
+6. IF THE LICENCE ENDS
+   If you break this licence and don't put it right within 14 days of us telling you, it ends. You must then stop
+   using the Assets in new work and delete your copies. Projects you had already released before we told you
+   may stay as they are.
+
+7. THE LAW
+   This licence is governed by the law of England and Wales, and the courts of England and Wales deal with any
+   dispute.
+
+8. QUESTIONS
+   Want to do something this licence doesn't cover? Ask us.

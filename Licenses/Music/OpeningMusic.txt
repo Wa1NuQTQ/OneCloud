@@ -1,0 +1,16 @@
+Opening comic music: A Kind Of Hope
+Artist: Scott Buckley
+
+'A Kind Of Hope' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+
+Track: https://www.scottbuckley.com.au/library/a-kind-of-hope/
+License: https://creativecommons.org/licenses/by/4.0/
+Usage terms: https://www.scottbuckley.com.au/library/using-this-music/
+Original MP3: https://www.scottbuckley.com.au/library/wp-content/uploads/2022/10/AKindOfHope.mp3
+
+The original MP3 is retained unchanged as the production source. Unreal imports
+it into a SoundWave; the game applies playback volume, looping and entry/exit
+fades. No musical notes, pitch or tempo have been altered.
+
+When distributing gameplay recordings on YouTube, retain the artist's requested
+credit in the video description. Retain this attribution when changing packaging.

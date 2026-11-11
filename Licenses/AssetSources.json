@@ -1,0 +1,3477 @@
+{
+  "license_note": "Entries without an explicit license use the terms associated with their Fab acquisition records.",
+  "assets": [
+    {
+      "name": "Mighty Oak Trees",
+      "publisher": "Jagobo",
+      "url": "https://sketchfab.com/3d-models/mighty-oak-trees-4f6ab5594a8a415aba3f958682b9ced5",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_directory": "SourceArt/ForestLake/SacredOak",
+      "content_directory": "Content/Art/ForestLake/SacredOak",
+      "usage": "Central sacred tree in L_ForestLake. The third tree was isolated, centered at its base and scaled to 22 m. The Unreal import uses Nanite and a two-sided masked leaf material."
+    },
+    {
+      "name": "English Oak",
+      "publisher": "Quixel Megaplants",
+      "url": "https://www.fab.com/listings/83642c38-7661-4df1-8629-0422e1898d26",
+      "content_directory": "Content/Megaplant_Library"
+    },
+    {
+      "name": "Old Clay Pitcher",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/75dd4c34-0e67-4b06-9272-4aa980817101",
+      "source_directory": "SourceArt/Props/ClayPitcher",
+      "content_directory": "Content/Art/Props/ClayPitcher"
+    },
+    {
+      "name": "Greasewood",
+      "publisher": "Quixel Megaplants",
+      "url": "https://www.fab.com/listings/1b8d0a76-276f-406e-9536-330243bb42cf"
+    },
+    {
+      "name": "Common Bulrush",
+      "publisher": "Quixel Megaplants",
+      "url": "https://www.fab.com/listings/764be2a2-72e0-4fb8-8108-532a4a3dc046"
+    },
+    {
+      "name": "Dry Common Reed",
+      "publisher": "Quixel Megaplants",
+      "url": "https://www.fab.com/listings/00299cb6-8602-4736-8565-4b19b41f5686"
+    },
+    {
+      "name": "Black Poplar",
+      "publisher": "Quixel Megaplants",
+      "url": "https://www.fab.com/listings/6b22075c-53b6-4973-a6a5-9f4ccd6a72a8"
+    },
+    {
+      "name": "Desert Western Formation Layered XL 05",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/50d4d00f-651b-42b3-ad89-d3aa4effab8d",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Rocks/Mesa",
+      "content_directory": "Content/Art/Rocks/Mesa",
+      "project_assets": [
+        "Content/Art/Rocks/Mesa/Materials/MI_Mesa",
+        "Content/Art/Rocks/Mesa/Meshes/SM_Mesa",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_AO",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_BaseColor",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_Bump",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_Gloss",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_Normal",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_Roughness",
+        "Content/Art/Rocks/Mesa/Textures/T_Mesa_Specular"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files."
+    },
+    {
+      "name": "Desert Western Cliff Layered XL 14",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/23639c4c-ca70-49f1-b462-afaa454252b2",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Rocks/Cliff",
+      "content_directory": "Content/Art/Rocks/Cliff",
+      "project_assets": [
+        "Content/Art/Rocks/Cliff/Materials/MI_Cliff",
+        "Content/Art/Rocks/Cliff/Meshes/SM_Cliff",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_AO",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_BaseColor",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_Bump",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_Gloss",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_Normal",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_Roughness",
+        "Content/Art/Rocks/Cliff/Textures/T_Cliff_Specular"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files."
+    },
+    {
+      "name": "Sandstone Boulder",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/9317cac7-dbd3-4ff7-a838-af23db59e454",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Rocks/Boulder",
+      "content_directory": "Content/Art/Rocks/Boulder",
+      "project_assets": [
+        "Content/Art/Rocks/Boulder/Materials/MI_Boulder",
+        "Content/Art/Rocks/Boulder/Meshes/SM_Boulder",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_AO",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_BaseColor",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_Bump",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_Gloss",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_Normal",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_Roughness",
+        "Content/Art/Rocks/Boulder/Textures/T_Boulder_Specular"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files."
+    },
+    {
+      "name": "Thai Rippled Beach Sand",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/336b8754-9286-4fbf-8710-9cfa90f41f4c",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Ground/Sand",
+      "content_directory": "Content/Art/Ground/Sand",
+      "project_assets": [
+        "Content/Art/Ground/Sand/Textures/T_Sand_BaseColor",
+        "Content/Art/Ground/Sand/Textures/T_Sand_Normal",
+        "Content/Art/Ground/Sand/Textures/T_Sand_Roughness"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files.",
+      "usage": "BaseColor, Normal and Roughness feed M_Terrain. Unused MI_ThaiRippledSand preview material and five unused auxiliary texture assets were removed; original source files remain available."
+    },
+    {
+      "name": "Kikuyu Grass",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/4a7f5036-b879-4910-a5f2-271ccff93b32",
+      "metadata_id": "wiljearqx",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Plants/Grass/Short",
+      "content_directory": "Content/Art/Plants/Grass/Short",
+      "usage": "A/C/E/G LOD0 variants, Nanite meshes with masked two-sided foliage material, four native HISM groups; no wind added."
+    },
+    {
+      "name": "Wild Grass",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/5848d16a-f6ab-45a7-b69f-fe21dcbe4669",
+      "metadata_id": "vczndjqja",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Plants/Grass/Wild",
+      "content_directory": "Content/Art/Plants/Grass/Wild",
+      "usage": "A/C/E/G LOD0 variants, Nanite meshes with masked two-sided foliage material, four native HISM groups; source has no AO map, AO texture switch disabled; no wind added."
+    },
+    {
+      "name": "Sandstone Rocky Ground",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/d6c87516-52ea-40d0-a3e5-c1e52d4ad88f",
+      "metadata_id": "vmjjfiv",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Rocks/Rubble",
+      "content_directory": "Content/Art/Rocks/Rubble",
+      "usage": "Partially buried Nanite rubble mesh patches at the feet of existing sandstone formations.",
+      "project_assets": [
+        "Content/Art/Rocks/Rubble/Materials/MI_Rubble",
+        "Content/Art/Rocks/Rubble/Materials/M_Rubble",
+        "Content/Art/Rocks/Rubble/Meshes/SM_Rubble",
+        "Content/Art/Rocks/Rubble/Textures/T_Rubble_BaseColor",
+        "Content/Art/Rocks/Rubble/Textures/T_Rubble_Normal",
+        "Content/Art/Rocks/Rubble/Textures/T_Rubble_Roughness"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files."
+    },
+    {
+      "name": "Arid Debris",
+      "publisher": "Quixel Megascans",
+      "url": "https://www.fab.com/listings/48ea3af3-ee1f-4360-bad8-b2878a5f22ff",
+      "metadata_id": "tjkipph",
+      "quality": "mid",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Ground/Debris",
+      "content_directory": "Content/Art/Ground/Debris",
+      "usage": "Local leaf-and-twig decals under trees and around rock feet."
+    },
+    {
+      "name": "Forest Floor",
+      "publisher": "Quixel Megascans",
+      "url": "https://quixel.com/megascans/home?assetId=wgykaio",
+      "url_note": "Original Quixel asset ID confirmed by package metadata; a Fab listing UID was not embedded in the user-supplied archive.",
+      "metadata_id": "wgykaio",
+      "quality": "2k source archive",
+      "texture_resolution": "2K",
+      "source_directory": "SourceArt/Ground/Soil",
+      "content_directory": "Content/Art/Ground/Soil",
+      "usage": "T_Soil BaseColor, Normal, Roughness and AO blend into M_Terrain beneath tree groves via T_Regions. No dynamic rain wetting added.",
+      "project_assets": [
+        "Content/Art/Ground/Soil/Textures/T_Soil_AO",
+        "Content/Art/Ground/Soil/Textures/T_Soil_BaseColor",
+        "Content/Art/Ground/Soil/Textures/T_Soil_Normal",
+        "Content/Art/Ground/Soil/Textures/T_Soil_Roughness"
+      ],
+      "source_note": "Original production scan files retain their original names in SourceArt; the project assets use short type-prefixed names. Unused preview or auxiliary texture assets may be removed without deleting the original scan files."
+    },
+    {
+      "name": "StampIT! Collection - FREE Examples",
+      "publisher": "Rowlan",
+      "url": "https://www.fab.com/listings/11388bc3-c13a-4c2f-b7d0-578022969a60"
+    },
+    {
+      "name": "MS_DefaultMaterial and required support assets",
+      "publisher": "Epic Games",
+      "source": "FabLauncher bundled material preset, copied using the plugin preset layout and relocated through Unreal AssetTools"
+    }
+  ],
+  "project_cloud": {
+    "name": "Oasis persistent rain cloud",
+    "origin": "Project-authored density material and material instance, using Unreal Engine's native VolumetricCloud actor and built-in volume-noise textures.",
+    "content_directory": "Content/Art/Weather/Clouds/Materials",
+    "scene_actor_class": "/Script/Engine.VolumetricCloud",
+    "engine_assets": [
+      "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape128",
+      "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32"
+    ],
+    "license_note": "Built-in engine assets remain subject to the Unreal Engine terms; they are not declared CC0. No external cloud assets were used.",
+    "usage": "Cloud appearance only, with no camera-dependent density reduction. Separate NS_Rain and AOneCloudRain provide persistent rain and classified impact audio. Cloud control, upgrades and damage have not been implemented.",
+    "material_assets": [
+      "Content/Art/Weather/Clouds/Materials/M_Cloud",
+      "Content/Art/Weather/Clouds/Materials/MI_Cloud"
+    ]
+  },
+  "project_water_surface": {
+    "name": "Oasis lake surface mesh",
+    "content_asset": "Content/Art/Water/Meshes/SM_Lake",
+    "origin": "Project-generated mesh following the Z=0 lake contour of the existing production landscape heightmap; no additional third-party mesh was imported.",
+    "source_file": "SourceArt/Ground/Heightmaps/Oasis/HM_OasisBasin_1009.r16",
+    "contour_area_square_meters": 2435.37,
+    "shore_skirt_centimeters": 12,
+    "usage": "Native WaterBodyCustom surface at Z=0 with unit actor scale. Complex triangle collision represents the surface, not a complete enclosed water volume. Regenerate the mesh after shoreline or water-level changes.",
+    "license_note": "The existing heightmap provenance and applicable source-asset terms remain unchanged. The native water material and rendering components remain subject to the Unreal Engine terms."
+  },
+  "project_audio": [
+    {
+      "name": "Recorded rain impact one-shots",
+      "origin": "User-supplied MP3 recordings, locally edited into individual Metal, Leaf and Water contacts.",
+      "license_note": "User-supplied downloads. Original provider and license were not supplied; no CC0 or other license is inferred from the filenames.",
+      "asset_count": 25,
+      "variants_per_surface": {
+        "Metal": 12,
+        "Leaf": 10,
+        "Water": 3
+      },
+      "source_directory": "SourceAudio/Rain/Impacts",
+      "content_directory": "Content/Audio/Rain/Impacts",
+      "asset_naming": "SW_Rain_<Surface>_<NN>, SC_Rain_<Surface>",
+      "format": "48 kHz, mono, PCM 16-bit WAV; non-looping, ForceInline SoundWave assets.",
+      "processing": "Stereo downmix, DC removal, gentle 65 Hz high-pass, isolated onset extraction, conservative gain balancing and short endpoint fades.",
+      "sources": [
+        {
+          "file": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "surface": "Metal",
+          "sha256": "2e06619fe2078d51c7946727767485791f88aa984b9ed72a1c8c1b7ee6e501e5",
+          "seconds": 37.578208616780046
+        },
+        {
+          "file": "drops-in-a-metal-pan.mp3",
+          "surface": "Metal",
+          "sha256": "0695b8e0a8bb1c729c858f5fa145d6f519513f5f7aa15dc54172fb0ba08b7c2c",
+          "seconds": 46.45984126984127
+        },
+        {
+          "file": "water-dripping-on-the-leaves.mp3",
+          "surface": "Leaf",
+          "sha256": "21eb1ad4a703584c1829de56579dc71c52a8c0bf41a50a718833f8f76504a973",
+          "seconds": 27.54718820861678
+        },
+        {
+          "file": "water-drop-single-gentle.mp3",
+          "surface": "Water",
+          "sha256": "cb9919538a7d1138bd6eeaff1e0aff1d7aae1cdbe576ae03dd12795ac3580a07",
+          "seconds": 0.32325
+        },
+        {
+          "file": "water-drop-single-short-clear.mp3",
+          "surface": "Water",
+          "sha256": "61a7cdc846b10e86a101c64309c1f4f6733f83b71afe6964e5c17d64cf362db9",
+          "seconds": 0.5873696145124716
+        },
+        {
+          "file": "water-drop-single-short-soft-close.mp3",
+          "surface": "Water",
+          "sha256": "d9c75ba37049ecadd95417cbeeb38577d8578ce45f1c54679261728df3b183ff",
+          "seconds": 0.6121041666666667
+        }
+      ],
+      "clips": [
+        {
+          "asset": "SW_Rain_Metal_01",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 8.225283446712018,
+          "end_seconds": 8.549274376417234,
+          "gain": 1.111496266605334
+        },
+        {
+          "asset": "SW_Rain_Metal_02",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 14.782380952380953,
+          "end_seconds": 15.10437641723356,
+          "gain": 1.1104780767449545
+        },
+        {
+          "asset": "SW_Rain_Metal_03",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 19.703197278911563,
+          "end_seconds": 20.029183673469387,
+          "gain": 1.0903374755081445
+        },
+        {
+          "asset": "SW_Rain_Metal_04",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 26.220385487528343,
+          "end_seconds": 26.50469387755102,
+          "gain": 0.5936474075040181
+        },
+        {
+          "asset": "SW_Rain_Metal_05",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 27.3997052154195,
+          "end_seconds": 27.733673469387757,
+          "gain": 0.7950669867950884
+        },
+        {
+          "asset": "SW_Rain_Metal_06",
+          "source": "the-sound-of-water-drops-falling-on-a-metal-surface.mp3",
+          "start_seconds": 29.8581179138322,
+          "end_seconds": 30.18607709750567,
+          "gain": 0.7400210172628797
+        },
+        {
+          "asset": "SW_Rain_Metal_07",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 2.210952380952381,
+          "end_seconds": 2.3506802721088436,
+          "gain": 0.4680543082852365
+        },
+        {
+          "asset": "SW_Rain_Metal_08",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 7.772312925170068,
+          "end_seconds": 7.902063492063492,
+          "gain": 0.4696303016222718
+        },
+        {
+          "asset": "SW_Rain_Metal_09",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 10.897210884353742,
+          "end_seconds": 11.028956916099773,
+          "gain": 0.4015045430484359
+        },
+        {
+          "asset": "SW_Rain_Metal_10",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 12.533492063492064,
+          "end_seconds": 12.663242630385488,
+          "gain": 0.391989492671497
+        },
+        {
+          "asset": "SW_Rain_Metal_11",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 15.580566893424036,
+          "end_seconds": 15.708321995464853,
+          "gain": 0.44599578864057654
+        },
+        {
+          "asset": "SW_Rain_Metal_12",
+          "source": "drops-in-a-metal-pan.mp3",
+          "start_seconds": 19.312086167800455,
+          "end_seconds": 19.441836734693876,
+          "gain": 0.5040830860847278
+        },
+        {
+          "asset": "SW_Rain_Leaf_01",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 5.18219954648526,
+          "end_seconds": 5.293990929705215,
+          "gain": 0.6603222283144524
+        },
+        {
+          "asset": "SW_Rain_Leaf_02",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 6.199886621315192,
+          "end_seconds": 6.327641723356009,
+          "gain": 1.2249885911970324
+        },
+        {
+          "asset": "SW_Rain_Leaf_03",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 7.902018140589569,
+          "end_seconds": 8.059705215419502,
+          "gain": 1.4671860414279603
+        },
+        {
+          "asset": "SW_Rain_Leaf_04",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 8.91172335600907,
+          "end_seconds": 9.07140589569161,
+          "gain": 0.5348386018808384
+        },
+        {
+          "asset": "SW_Rain_Leaf_05",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 11.10873015873016,
+          "end_seconds": 11.238480725623583,
+          "gain": 0.8062731493256042
+        },
+        {
+          "asset": "SW_Rain_Leaf_06",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 12.459659863945578,
+          "end_seconds": 12.577437641723357,
+          "gain": 1.1404250054864364
+        },
+        {
+          "asset": "SW_Rain_Leaf_07",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 14.544920634920635,
+          "end_seconds": 14.722562358276644,
+          "gain": 2.3184306662157734
+        },
+        {
+          "asset": "SW_Rain_Leaf_08",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 18.79326530612245,
+          "end_seconds": 18.905056689342402,
+          "gain": 1.1588313403037627
+        },
+        {
+          "asset": "SW_Rain_Leaf_09",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 23.376848072562357,
+          "end_seconds": 23.486643990929704,
+          "gain": 0.7657877177207991
+        },
+        {
+          "asset": "SW_Rain_Leaf_10",
+          "source": "water-dripping-on-the-leaves.mp3",
+          "start_seconds": 24.292766439909297,
+          "end_seconds": 24.402562358276644,
+          "gain": 1.001857615759324
+        },
+        {
+          "asset": "SW_Rain_Water_01",
+          "source": "water-drop-single-gentle.mp3",
+          "start_seconds": 0.014,
+          "end_seconds": 0.16597916666666668,
+          "gain": 1.4685480851400083
+        },
+        {
+          "asset": "SW_Rain_Water_02",
+          "source": "water-drop-single-short-clear.mp3",
+          "start_seconds": 0.039886621315192744,
+          "end_seconds": 0.2694104308390023,
+          "gain": 0.675818062822652
+        },
+        {
+          "asset": "SW_Rain_Water_03",
+          "source": "water-drop-single-short-soft-close.mp3",
+          "start_seconds": 0.036,
+          "end_seconds": 0.344,
+          "gain": 2.1597141347659234
+        }
+      ],
+      "usage": "Legacy user-supplied recordings retained as source and editor assets only. The three release root cues SC_Rain_Water, SC_Rain_Leaf and SC_Rain_Metal now use only their 24 project-generated family clips each. All 25 old waves have zero hard or soft package referencers in the UE asset registry. Old files are not deleted; final cooked asset registry verification is still required. Original provider and license remain unconfirmed."
+    },
+    {
+      "name": "Original procedural sand rain impact one-shots",
+      "origin": "Project-created procedural sound design; no external recording was sampled or remixed. These are not field recordings or a validated physical simulation.",
+      "license_note": "Original generated project assets. Linked research and recording descriptions informed the design; their audio was not downloaded, sampled or incorporated.",
+      "asset_count": 24,
+      "variants_per_family": {
+        "DryFine": 8,
+        "DryCoarse": 8,
+        "Damp": 8
+      },
+      "source_directory": "SourceAudio/Rain/Impacts/Sand",
+      "content_directory": "Content/Audio/Rain/Impacts/Sand",
+      "format": "Production WAV: 48 kHz mono PCM 24-bit. UE 5.8 SoundFactory converts imported audio to PCM 16-bit; all SoundWaves use PCM, ForceInline and non-looping playback.",
+      "design": "Independent seeded band-limited noise, a brief bipolar contact pulse and weak clustered grain microcontacts; short decaying envelopes, no reverb or ambient noise bed.",
+      "references": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158472",
+        "https://www.prosoundeffects.com/sound-effects/PSE_SMV2/icqyr/rain-on-dirt-light-splatter-gentle-raindrops",
+        "https://www.prosoundeffects.com/sound-effects/PSE_ODY4/yoM3x/ploppy-rain-constant"
+      ],
+      "clips": [
+        {
+          "asset": "SW_Rain_Sand_DryFine_01",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_01.wav",
+          "sha256": "8bd92f33c8f1d8659fd2ad8e2e7f6b4dc93875aade0993fbea2918b0185ab8ee",
+          "seed": 90437,
+          "duration_seconds": 0.04070833333333333,
+          "decay_seconds": 0.004617071502232661,
+          "bands": [
+            [
+              499.5701448770764,
+              2220.311755009229,
+              0.5492951828485488
+            ],
+            [
+              1914.287292943009,
+              5530.163290724248,
+              0.26731647784297247
+            ],
+            [
+              4128.553889016796,
+              8532.344703968047,
+              0.12065879614886978
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_02",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_02.wav",
+          "sha256": "bfaa8ac52b94a361bcf0290ee82004e95dc59c3e90c7053195e0c6fbd9a44614",
+          "seed": 90474,
+          "duration_seconds": 0.04822916666666666,
+          "decay_seconds": 0.005546330807004641,
+          "bands": [
+            [
+              391.51068743027696,
+              1740.0474996901198,
+              0.5342545412406733
+            ],
+            [
+              1884.2507863701526,
+              5443.391160624885,
+              0.28556182531665003
+            ],
+            [
+              4762.833323152691,
+              9843.188867848896,
+              0.10794983818010531
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_03",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_03.wav",
+          "sha256": "41484d6a71ffe823296b377e3258ea522cb0120fd9ebdc45fad289fa2d45698e",
+          "seed": 90511,
+          "duration_seconds": 0.04014583333333333,
+          "decay_seconds": 0.004677062089073491,
+          "bands": [
+            [
+              421.2889781930654,
+              1872.3954586358461,
+              0.5253953224893355
+            ],
+            [
+              1854.0218274174372,
+              5356.063056983708,
+              0.29184086157440087
+            ],
+            [
+              4194.162328577126,
+              8667.935479059393,
+              0.12784912692484343
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_04",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_04.wav",
+          "sha256": "8500e9eb724562c27730fe39e14ab6df52ad019f69f8841e1098f41cd2550e5f",
+          "seed": 90548,
+          "duration_seconds": 0.0436875,
+          "decay_seconds": 0.005169403053488101,
+          "bands": [
+            [
+              409.59630497386013,
+              1820.4280221060449,
+              0.5066693043838529
+            ],
+            [
+              1609.5868798400472,
+              4649.917652871248,
+              0.3523792742142621
+            ],
+            [
+              4308.051386227582,
+              8903.30619820367,
+              0.1469874143131207
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_05",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_05.wav",
+          "sha256": "6eb6dcc579b90fcdf87511a57dd75648e1296d7ef5ea481a69a5d9c433580817",
+          "seed": 90585,
+          "duration_seconds": 0.0385,
+          "decay_seconds": 0.0038238944563742227,
+          "bands": [
+            [
+              512.2635021700958,
+              2276.7266763115367,
+              0.5690550941993345
+            ],
+            [
+              1790.596885985601,
+              5172.835448402847,
+              0.36861061497099074
+            ],
+            [
+              4910.434882365049,
+              10148.232090221101,
+              0.11416344043626722
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_06",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_06.wav",
+          "sha256": "210fcacd11d66efa74d752ab90737885f8f8402cee3dfdf0a8996dbcf7a1c52f",
+          "seed": 90622,
+          "duration_seconds": 0.0385,
+          "decay_seconds": 0.003982780748880327,
+          "bands": [
+            [
+              498.9672687803703,
+              2217.632305690535,
+              0.4751663239899516
+            ],
+            [
+              1824.9902870445665,
+              5272.1941625731915,
+              0.32442478862441027
+            ],
+            [
+              4317.31700040978,
+              8922.455134180213,
+              0.11569270193917254
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_07",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_07.wav",
+          "sha256": "96f28e342b61a383f7e29f3696988773b886c1a6a51b950acdd009bffd084da0",
+          "seed": 90659,
+          "duration_seconds": 0.051729166666666666,
+          "decay_seconds": 0.005760005814222952,
+          "bands": [
+            [
+              457.5235635497425,
+              2033.4380602210776,
+              0.5012983789939756
+            ],
+            [
+              2014.50805544132,
+              5819.689937941591,
+              0.3542407107276429
+            ],
+            [
+              4053.107685059329,
+              8376.422549122613,
+              0.13473833703295804
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryFine_08",
+          "family": "DryFine",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryFine/SW_Rain_Sand_DryFine_08.wav",
+          "sha256": "6318c3b115646214bb7ec84aac5fe0163aa90e597b47e4dc71ec6e6a06b34d1c",
+          "seed": 90696,
+          "duration_seconds": 0.04435416666666667,
+          "decay_seconds": 0.005106986037267726,
+          "bands": [
+            [
+              444.04862382161116,
+              1973.5494392071607,
+              0.6371418974314709
+            ],
+            [
+              1569.5907243868119,
+              4534.373203784123,
+              0.3160459802283369
+            ],
+            [
+              4570.406072774998,
+              9445.505883734997,
+              0.12214354331678384
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_01",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_01.wav",
+          "sha256": "d751bee09d072b44311140392eb4c5ccc90dddd04e20eb6e0c2da266b4f94823",
+          "seed": 91437,
+          "duration_seconds": 0.05633333333333333,
+          "decay_seconds": 0.007213319886082309,
+          "bands": [
+            [
+              289.2473239691101,
+              1446.2366198455504,
+              0.44793770765976015
+            ],
+            [
+              1337.7083998169192,
+              4904.930799328704,
+              0.37400591830369423
+            ],
+            [
+              3581.01223661413,
+              6982.973861397553,
+              0.07628410100475157
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_02",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_02.wav",
+          "sha256": "814a64d95d0c564f24867608c54fcec1dcdf855832847050c80b7b17994c5a3c",
+          "seed": 91474,
+          "duration_seconds": 0.05733333333333333,
+          "decay_seconds": 0.006788370036084124,
+          "bands": [
+            [
+              268.3230988767719,
+              1341.6154943838596,
+              0.5573440267916032
+            ],
+            [
+              1284.2723488014658,
+              4708.998612272041,
+              0.3718723201416338
+            ],
+            [
+              3739.1584609680112,
+              7291.358998887622,
+              0.07974894319198071
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_03",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_03.wav",
+          "sha256": "39130dac984d909fa95e5e522f8bffff029dca4e46b488d40f1447729d7d607d",
+          "seed": 91511,
+          "duration_seconds": 0.04702083333333333,
+          "decay_seconds": 0.00565984440116139,
+          "bands": [
+            [
+              307.6061373132838,
+              1538.030686566419,
+              0.520075346580706
+            ],
+            [
+              1123.1659173508285,
+              4118.2750302863715,
+              0.39666549784003496
+            ],
+            [
+              3590.0139430630957,
+              7000.527188973037,
+              0.07523692218043503
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_04",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_04.wav",
+          "sha256": "97cd28bc920977f43e6d229dd77b03165507d7723be8c38aff0e49000e32304e",
+          "seed": 91548,
+          "duration_seconds": 0.05639583333333333,
+          "decay_seconds": 0.006903323902643795,
+          "bands": [
+            [
+              319.7585873716089,
+              1598.7929368580444,
+              0.4400803721838683
+            ],
+            [
+              1106.2415640301715,
+              4056.219068110629,
+              0.39898444777483905
+            ],
+            [
+              4262.958601557486,
+              8312.769273037098,
+              0.08004039002436501
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_05",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_05.wav",
+          "sha256": "ac917698d33039e7d310a1a186dde033da663d28acd75eaf7c9512a58d892ff1",
+          "seed": 91585,
+          "duration_seconds": 0.064875,
+          "decay_seconds": 0.007837256821280962,
+          "bands": [
+            [
+              338.0032519602546,
+              1690.0162598012732,
+              0.5644645373176074
+            ],
+            [
+              1132.4579187090976,
+              4152.345701933358,
+              0.34913607012823744
+            ],
+            [
+              3695.4174707924917,
+              7206.064068045359,
+              0.09824618549687028
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_06",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_06.wav",
+          "sha256": "92693a5da3f51e6f4b32e3a85e2f313f1514ede652b78e7ed64e1fc51b67543a",
+          "seed": 91622,
+          "duration_seconds": 0.051020833333333335,
+          "decay_seconds": 0.006092881625796191,
+          "bands": [
+            [
+              266.0037840549601,
+              1330.0189202748004,
+              0.4917720707687472
+            ],
+            [
+              1293.3822935634796,
+              4742.401743066092,
+              0.3610948535572858
+            ],
+            [
+              3944.077316610078,
+              7690.950767389652,
+              0.09728678978139776
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_07",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_07.wav",
+          "sha256": "a1725eaa4dc4a086c158a6f2656d7486798480d40839fe763de2a180422a0e89",
+          "seed": 91659,
+          "duration_seconds": 0.04822916666666666,
+          "decay_seconds": 0.005512429962797998,
+          "bands": [
+            [
+              282.4093146991973,
+              1412.0465734959864,
+              0.570183336820802
+            ],
+            [
+              1054.5266244767224,
+              3866.5976230813153,
+              0.39586095265489196
+            ],
+            [
+              3593.537566074158,
+              7007.398253844608,
+              0.08177573453707354
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_DryCoarse_08",
+          "family": "DryCoarse",
+          "source": "SourceAudio/Rain/Impacts/Sand/DryCoarse/SW_Rain_Sand_DryCoarse_08.wav",
+          "sha256": "6afbc8540aa6846e341fdff227ff9e7e7f3d33f764d124bf671e53ee175f95d5",
+          "seed": 91696,
+          "duration_seconds": 0.058791666666666666,
+          "decay_seconds": 0.007957681830845706,
+          "bands": [
+            [
+              263.2056906449366,
+              1316.028453224683,
+              0.5629841846715304
+            ],
+            [
+              1046.9343590754418,
+              3838.759316609953,
+              0.4336894802343993
+            ],
+            [
+              4074.4792224191874,
+              7945.234483717415,
+              0.08526745101468249
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_01",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_01.wav",
+          "sha256": "294488651b00df6661b4f235fb98630fb6827ead3a574407c6d33ac963e85823",
+          "seed": 92437,
+          "duration_seconds": 0.06345833333333334,
+          "decay_seconds": 0.008797489738349406,
+          "bands": [
+            [
+              196.07551535103804,
+              1252.7046814094097,
+              0.6229234437099269
+            ],
+            [
+              799.5210120616828,
+              3198.084048246731,
+              0.268947068218874
+            ],
+            [
+              2771.989533102042,
+              6236.976449479595,
+              0.0769284261286996
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_02",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_02.wav",
+          "sha256": "66636087acd76724575a8540b2605df45fef3617298032ec8dec1843cdbb9b2b",
+          "seed": 92474,
+          "duration_seconds": 0.0571875,
+          "decay_seconds": 0.006943094387304027,
+          "bands": [
+            [
+              184.4225645783831,
+              1178.2552736952252,
+              0.6802256131253774
+            ],
+            [
+              861.3269005806408,
+              3445.307602322563,
+              0.2958229840337721
+            ],
+            [
+              2551.541846031953,
+              5740.969153571894,
+              0.06037813847252283
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_03",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_03.wav",
+          "sha256": "9d38b273cc50d5fae781a8f64e346a5e7cb12e56bb5e4036422326453c91b172",
+          "seed": 92511,
+          "duration_seconds": 0.06333333333333334,
+          "decay_seconds": 0.007966469123788716,
+          "bands": [
+            [
+              192.21858854509452,
+              1228.0632045936595,
+              0.6970632333035466
+            ],
+            [
+              838.7140737532985,
+              3354.856295013194,
+              0.30283709257054564
+            ],
+            [
+              3050.038069385683,
+              6862.585656117786,
+              0.0718566266686421
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_04",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_04.wav",
+          "sha256": "77b6c25ea13e70ce26979142d897b998ce2b2cdae9491ddf3c1d7e78237adf3e",
+          "seed": 92548,
+          "duration_seconds": 0.06645833333333333,
+          "decay_seconds": 0.00818504804300543,
+          "bands": [
+            [
+              202.92754800086792,
+              1296.4815566722118,
+              0.7009075120009571
+            ],
+            [
+              739.4631151274697,
+              2957.8524605098787,
+              0.25925930510742284
+            ],
+            [
+              3109.263250289496,
+              6995.842313151366,
+              0.08132710755257182
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_05",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_05.wav",
+          "sha256": "e97d0c30f0f1146ad190d8ec61035b0eb115cca04adf86666e2b2b112bc266a7",
+          "seed": 92585,
+          "duration_seconds": 0.06408333333333334,
+          "decay_seconds": 0.007634186245740603,
+          "bands": [
+            [
+              166.82711228606428,
+              1065.839884049855,
+              0.5957082853516394
+            ],
+            [
+              770.1441736827207,
+              3080.576694730883,
+              0.23330720149321904
+            ],
+            [
+              2509.548286469447,
+              5646.483644556255,
+              0.058600245185152916
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_06",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_06.wav",
+          "sha256": "085b2b188a8ed582ac8a453532926229dca8c5cf4c8c7b0bb08544d355db640f",
+          "seed": 92622,
+          "duration_seconds": 0.06945833333333333,
+          "decay_seconds": 0.008553470588223254,
+          "bands": [
+            [
+              189.87566256333494,
+              1213.0945108213066,
+              0.6040046794968241
+            ],
+            [
+              765.5289339874704,
+              3062.1157359498816,
+              0.31088628091699655
+            ],
+            [
+              2700.151136626663,
+              6075.3400574099915,
+              0.07272284446648798
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_07",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_07.wav",
+          "sha256": "76112ff38243275d722fcac166d65ff4556cc8b0bd1404bc413cfeb30da56bdc",
+          "seed": 92659,
+          "duration_seconds": 0.07058333333333333,
+          "decay_seconds": 0.008464315381679698,
+          "bands": [
+            [
+              189.92769816418362,
+              1213.4269604933954,
+              0.5736817875136784
+            ],
+            [
+              736.8523343130144,
+              2947.4093372520574,
+              0.2664858412582398
+            ],
+            [
+              2486.9935604091324,
+              5595.735510920548,
+              0.0818396190416571
+            ]
+          ]
+        },
+        {
+          "asset": "SW_Rain_Sand_Damp_08",
+          "family": "Damp",
+          "source": "SourceAudio/Rain/Impacts/Sand/Damp/SW_Rain_Sand_Damp_08.wav",
+          "sha256": "713e304adf01683110b109e3fe26cdc1fa7ba4c2a59a3766f60c8e33fa90fda5",
+          "seed": 92696,
+          "duration_seconds": 0.06,
+          "decay_seconds": 0.008067783475386555,
+          "bands": [
+            [
+              167.8469043179125,
+              1072.3552220311076,
+              0.7215403448557747
+            ],
+            [
+              925.317282755495,
+              3701.26913102198,
+              0.2725783127192513
+            ],
+            [
+              2958.5842115308874,
+              6656.814475944497,
+              0.06057815935685068
+            ]
+          ]
+        }
+      ],
+      "usage": "SC_Rain_Sand retains its existing path and selects one of 16 DryFine/DryCoarse contacts per request without replacement. The three family cues each select one of 8 variants. Damp is available for manual selection; no automatic wetness switching is implemented."
+    },
+    {
+      "name": "Original procedural water rain impact one-shots",
+      "origin": "Project-created procedural single water contacts; no external recording was downloaded, sampled or remixed. These are not field recordings or a validated acoustic simulation.",
+      "license_note": "Original generated project assets. Research and original recording descriptions informed artistic design; their audio was not incorporated.",
+      "asset_count": 24,
+      "variants_per_family": {
+        "Light": 8,
+        "Round": 8,
+        "Splash": 8
+      },
+      "source_directory": "SourceAudio/Rain/Impacts/Water",
+      "content_directory": "Content/Audio/Rain/Impacts/Water",
+      "format": "Production WAV: 48kHz mono 24-bit PCM. UE SoundFactory converts imports to internal 16-bit PCM; ForceInline, non-looping SoundWaves.",
+      "design": "Short broadband contact, a weak quickly damped cavity component and clustered splash microcontacts. Independently seeded spectra, phases and envelopes; no room reverb, ambient layer or repeating loop.",
+      "references": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6014985/",
+        "https://science.nasa.gov/earth/earth-observatory/listening-to-raindrops/",
+        "https://dev.epicgames.com/documentation/en-us/unreal-engine/sound-cue-reference-for-unreal-engine"
+      ],
+      "clips": [
+        {
+          "asset": "SW_Rain_Water_Light_01",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_01.wav",
+          "sha256": "0df3986c542184f5015120f445a7b8137c258a9eb1e9c661764330c91a8e6bec",
+          "seed": 192371,
+          "duration_seconds": 0.0435,
+          "contact_decay_seconds": 0.004274921887328411,
+          "bubble_frequency_hz": 4676.034819364904,
+          "bubble_decay_seconds": 0.005861504347422152,
+          "bubble_delay_seconds": 0.0019740058209158744,
+          "frequency_drift_per_second": 0.8430469103281233
+        },
+        {
+          "asset": "SW_Rain_Water_Light_02",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_02.wav",
+          "sha256": "ae71ec617429952a787f4b829f3ef4836736f648671acee042e49e251c2c9b08",
+          "seed": 192442,
+          "duration_seconds": 0.051958333333333336,
+          "contact_decay_seconds": 0.0036872004340630475,
+          "bubble_frequency_hz": 2301.6873556674514,
+          "bubble_decay_seconds": 0.0074399077170546075,
+          "bubble_delay_seconds": 0.005001240237048979,
+          "frequency_drift_per_second": -0.030509087819529657
+        },
+        {
+          "asset": "SW_Rain_Water_Light_03",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_03.wav",
+          "sha256": "84cb45dbd99aeb238d3c61d8e439ff4f68db32bb384a719489caeb67320fe3cd",
+          "seed": 192513,
+          "duration_seconds": 0.0435,
+          "contact_decay_seconds": 0.00373465390831894,
+          "bubble_frequency_hz": 2426.3360735889296,
+          "bubble_decay_seconds": 0.00567464747126637,
+          "bubble_delay_seconds": 0.006495497835284456,
+          "frequency_drift_per_second": 0.5340035677294379
+        },
+        {
+          "asset": "SW_Rain_Water_Light_04",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_04.wav",
+          "sha256": "51f98e0ad5628ec5720b5f2703b4d1248d86722abc31948df5687f449a326676",
+          "seed": 192584,
+          "duration_seconds": 0.0435,
+          "contact_decay_seconds": 0.004096657084406694,
+          "bubble_frequency_hz": 4441.464031068031,
+          "bubble_decay_seconds": 0.006380469391400503,
+          "bubble_delay_seconds": 0.0021535585207475925,
+          "frequency_drift_per_second": -0.317651844245737
+        },
+        {
+          "asset": "SW_Rain_Water_Light_05",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_05.wav",
+          "sha256": "cef89cf22f4ae31ffe4b0c09b63c2765a2d3691d136e72b6122d19b52aba74a8",
+          "seed": 192655,
+          "duration_seconds": 0.04604166666666667,
+          "contact_decay_seconds": 0.004408094913139781,
+          "bubble_frequency_hz": 3665.0445108579033,
+          "bubble_decay_seconds": 0.006885132565320006,
+          "bubble_delay_seconds": 0.004017513226035032,
+          "frequency_drift_per_second": -0.8394635407577455
+        },
+        {
+          "asset": "SW_Rain_Water_Light_06",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_06.wav",
+          "sha256": "0edda4d2ea4827ba34ea1d0e9f2de0ba1c7afa393b1000054215cc3f88b74f4f",
+          "seed": 192726,
+          "duration_seconds": 0.0435,
+          "contact_decay_seconds": 0.003640254339751807,
+          "bubble_frequency_hz": 2450.224645566582,
+          "bubble_decay_seconds": 0.005870833595683892,
+          "bubble_delay_seconds": 0.006206181689662596,
+          "frequency_drift_per_second": 1.0760511006586952
+        },
+        {
+          "asset": "SW_Rain_Water_Light_07",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_07.wav",
+          "sha256": "787e6969d62a39043da9897fac1124568c4843350f0a75bf91f3c6722e2d362b",
+          "seed": 192797,
+          "duration_seconds": 0.04460416666666667,
+          "contact_decay_seconds": 0.005341704260724985,
+          "bubble_frequency_hz": 4616.048293615404,
+          "bubble_decay_seconds": 0.0053803317787164216,
+          "bubble_delay_seconds": 0.0038647055963463408,
+          "frequency_drift_per_second": -0.43153624260333356
+        },
+        {
+          "asset": "SW_Rain_Water_Light_08",
+          "family": "Light",
+          "source": "SourceAudio/Rain/Impacts/Water/Light/SW_Rain_Water_Light_08.wav",
+          "sha256": "52f0a56addee9ad37189f0ac5513193e97b3966084d5149d814578d2b91f03cc",
+          "seed": 192868,
+          "duration_seconds": 0.04654166666666667,
+          "contact_decay_seconds": 0.005227412795247358,
+          "bubble_frequency_hz": 2374.9517793026844,
+          "bubble_decay_seconds": 0.005404626400621798,
+          "bubble_delay_seconds": 0.004719300399956524,
+          "frequency_drift_per_second": -0.8964582546407248
+        },
+        {
+          "asset": "SW_Rain_Water_Round_01",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_01.wav",
+          "sha256": "3f14baea3aa1f42c0e21d498f862eae08f669cb224e546c0112ac310ea7b99f0",
+          "seed": 194371,
+          "duration_seconds": 0.06904166666666667,
+          "contact_decay_seconds": 0.00590847679280022,
+          "bubble_frequency_hz": 1368.329421470811,
+          "bubble_decay_seconds": 0.01201247295601483,
+          "bubble_delay_seconds": 0.0035383430494347434,
+          "frequency_drift_per_second": -0.04189732464121532
+        },
+        {
+          "asset": "SW_Rain_Water_Round_02",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_02.wav",
+          "sha256": "8da961b26a4421e67f1278fc7277347405463393f6e5c2d303bb62975d44df47",
+          "seed": 194442,
+          "duration_seconds": 0.068375,
+          "contact_decay_seconds": 0.005163650339186799,
+          "bubble_frequency_hz": 1064.2703498571439,
+          "bubble_decay_seconds": 0.010842334832778957,
+          "bubble_delay_seconds": 0.005135531331150731,
+          "frequency_drift_per_second": 1.1562575392135224
+        },
+        {
+          "asset": "SW_Rain_Water_Round_03",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_03.wav",
+          "sha256": "28026b853d23d504196e451fc165b90fe6ff51490d17e2a726c5446e46b76390",
+          "seed": 194513,
+          "duration_seconds": 0.07625,
+          "contact_decay_seconds": 0.005950126717761794,
+          "bubble_frequency_hz": 1543.2580571157869,
+          "bubble_decay_seconds": 0.01298046961859536,
+          "bubble_delay_seconds": 0.002165362717312186,
+          "frequency_drift_per_second": 0.7270709841673952
+        },
+        {
+          "asset": "SW_Rain_Water_Round_04",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_04.wav",
+          "sha256": "8290fff2339fba91ea194028a4962e9f299d202eac98fd8656ba80c98ca510e2",
+          "seed": 194584,
+          "duration_seconds": 0.0816875,
+          "contact_decay_seconds": 0.007019343597266241,
+          "bubble_frequency_hz": 2135.554717995131,
+          "bubble_decay_seconds": 0.01272298687997243,
+          "bubble_delay_seconds": 0.006403700511677305,
+          "frequency_drift_per_second": 0.4055047423778615
+        },
+        {
+          "asset": "SW_Rain_Water_Round_05",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_05.wav",
+          "sha256": "296c2a143e621bcca7d7cebc706d7ed479b62ef0391da14454e986408fe3c52b",
+          "seed": 194655,
+          "duration_seconds": 0.0700625,
+          "contact_decay_seconds": 0.005061779101575257,
+          "bubble_frequency_hz": 2174.4960741788873,
+          "bubble_decay_seconds": 0.011064504612517788,
+          "bubble_delay_seconds": 0.0027747442845036004,
+          "frequency_drift_per_second": -0.06081764037725379
+        },
+        {
+          "asset": "SW_Rain_Water_Round_06",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_06.wav",
+          "sha256": "fd47ca36f23877328c26222200162c2cf936bbac0f66a19ecdd495cae9ff7f78",
+          "seed": 194726,
+          "duration_seconds": 0.07372916666666667,
+          "contact_decay_seconds": 0.005117489166278527,
+          "bubble_frequency_hz": 1956.1969016370936,
+          "bubble_decay_seconds": 0.010654568427092174,
+          "bubble_delay_seconds": 0.0030901070220204123,
+          "frequency_drift_per_second": 0.3123895757375712
+        },
+        {
+          "asset": "SW_Rain_Water_Round_07",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_07.wav",
+          "sha256": "8741938e2872be6e2b447f00f10714c357afe27585c56118e8db5d1f40b9f8be",
+          "seed": 194797,
+          "duration_seconds": 0.06185416666666667,
+          "contact_decay_seconds": 0.007122371823651207,
+          "bubble_frequency_hz": 1633.3242519424796,
+          "bubble_decay_seconds": 0.0083197275794778,
+          "bubble_delay_seconds": 0.0022404271511791644,
+          "frequency_drift_per_second": 0.29825521822525314
+        },
+        {
+          "asset": "SW_Rain_Water_Round_08",
+          "family": "Round",
+          "source": "SourceAudio/Rain/Impacts/Water/Round/SW_Rain_Water_Round_08.wav",
+          "sha256": "491b4f022fbce2d77acd15b5227ce849bf53fa88a5de3e8418e408441216708a",
+          "seed": 194868,
+          "duration_seconds": 0.0595,
+          "contact_decay_seconds": 0.005177579312419638,
+          "bubble_frequency_hz": 2175.0367383300727,
+          "bubble_decay_seconds": 0.008916051681896207,
+          "bubble_delay_seconds": 0.001561587992254129,
+          "frequency_drift_per_second": -0.6969336994360948
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_01",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_01.wav",
+          "sha256": "3867e2d560fb9fca9fdf9ef643b1a9c0729d28114c6454aff54c42d5e141a5f3",
+          "seed": 196371,
+          "duration_seconds": 0.05454166666666667,
+          "contact_decay_seconds": 0.006408096457038267,
+          "bubble_frequency_hz": 2949.0741502211413,
+          "bubble_decay_seconds": 0.007203376919021758,
+          "bubble_delay_seconds": 0.004865608522904888,
+          "frequency_drift_per_second": 0.17226852215560884
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_02",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_02.wav",
+          "sha256": "30abb7dfa259f34db3f0796e9ca909aa0b114705b062a74dc8707ccd09f2bebb",
+          "seed": 196442,
+          "duration_seconds": 0.05525,
+          "contact_decay_seconds": 0.0055848715398948146,
+          "bubble_frequency_hz": 1931.0596579825274,
+          "bubble_decay_seconds": 0.009296699679339673,
+          "bubble_delay_seconds": 0.004306678625663311,
+          "frequency_drift_per_second": 0.20431946921949584
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_03",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_03.wav",
+          "sha256": "ca98c7425c3e8b1081094674fd6b7bdfc1940f7be2e257d85bb0c6b4763a10a8",
+          "seed": 196513,
+          "duration_seconds": 0.058291666666666665,
+          "contact_decay_seconds": 0.006752606343598165,
+          "bubble_frequency_hz": 2185.8874188962423,
+          "bubble_decay_seconds": 0.009586538973178417,
+          "bubble_delay_seconds": 0.002425807526615412,
+          "frequency_drift_per_second": -0.41435611134090955
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_04",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_04.wav",
+          "sha256": "ebf6d5f31ecc968983e7396cf75fc6b80e29deff2c9e5f5b71e44245df87b82b",
+          "seed": 196584,
+          "duration_seconds": 0.050583333333333334,
+          "contact_decay_seconds": 0.00626742399201176,
+          "bubble_frequency_hz": 3071.9653536322166,
+          "bubble_decay_seconds": 0.006785172620955534,
+          "bubble_delay_seconds": 0.003521871992786551,
+          "frequency_drift_per_second": -0.20059321632795768
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_05",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_05.wav",
+          "sha256": "237a7953b847bd0f599f07ea6f59427d3e8ad24e9df9c46ef3ff992bbf1ac215",
+          "seed": 196655,
+          "duration_seconds": 0.064,
+          "contact_decay_seconds": 0.0074100766786099,
+          "bubble_frequency_hz": 2811.887037698131,
+          "bubble_decay_seconds": 0.0099841093164184,
+          "bubble_delay_seconds": 0.0035503451678423354,
+          "frequency_drift_per_second": -0.03259982777248471
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_06",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_06.wav",
+          "sha256": "fd679bc8b0e1b27379a3ddf739c94f9eaa99548f29d67da0958255d2c4a5cb4f",
+          "seed": 196726,
+          "duration_seconds": 0.0675625,
+          "contact_decay_seconds": 0.008178062140486794,
+          "bubble_frequency_hz": 2799.275704788265,
+          "bubble_decay_seconds": 0.006506148050317471,
+          "bubble_delay_seconds": 0.0031527190953746847,
+          "frequency_drift_per_second": -0.8237510437856717
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_07",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_07.wav",
+          "sha256": "cd804e890a5f7200f1cab9278064f8ff2ea2657cba5282a16e01b439a435b862",
+          "seed": 196797,
+          "duration_seconds": 0.052833333333333336,
+          "contact_decay_seconds": 0.006503214665839683,
+          "bubble_frequency_hz": 3382.8748653002103,
+          "bubble_decay_seconds": 0.006308145970395884,
+          "bubble_delay_seconds": 0.005681010397858925,
+          "frequency_drift_per_second": 0.11930941252597616
+        },
+        {
+          "asset": "SW_Rain_Water_Splash_08",
+          "family": "Splash",
+          "source": "SourceAudio/Rain/Impacts/Water/Splash/SW_Rain_Water_Splash_08.wav",
+          "sha256": "68ef80aa57ff2252d4063119441acb64636016a2b3f0b7a2f67fd8eb2b8abbe0",
+          "seed": 196868,
+          "duration_seconds": 0.06445833333333334,
+          "contact_decay_seconds": 0.00820857792054819,
+          "bubble_frequency_hz": 2425.3346208779208,
+          "bubble_decay_seconds": 0.008929879287304533,
+          "bubble_delay_seconds": 0.004325576834511926,
+          "frequency_drift_per_second": -0.06321782988072266
+        }
+      ],
+      "usage": "SC_Rain_Water retains its path and selects only its 24 project-generated family clips, uniformly random without replacement, preselect=0 and non-looping. The Cue volume, pitch, SoundClass, attenuation and concurrency configuration are preserved. Unverified user-supplied recordings have been removed from both the playback tree and editor graph dependencies; the old waveform files remain unreferenced legacy assets pending final cook verification."
+    },
+    {
+      "name": "Original procedural metal rain impact one-shots",
+      "origin": "Original project-created procedural single contacts. Not field recordings or a validated physical simulation. No external audio was downloaded, sampled or remixed.",
+      "license_note": "Original generated project assets; referenced research and recording descriptions informed artistic design, but their audio is not incorporated.",
+      "asset_count": 24,
+      "variants_per_family": {
+        "Thin": 8,
+        "Thick": 8,
+        "Hollow": 8
+      },
+      "source_directory": "SourceAudio/Rain/Impacts/Metal",
+      "content_directory": "Content/Audio/Rain/Impacts/Metal",
+      "format": "Production WAV: 48kHz mono 24-bit PCM. UE imports internal 16-bit PCM; ForceInline, non-looping SoundWaves.",
+      "design": "Independent short noise contacts excite quickly damped inharmonic modes, with weak wet-contact components. Thin, thick and hollow responses use different modal spectra and decay times; no weapon hits or room reverberation.",
+      "references": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3155581/",
+        "https://freesound.org/people/dnlburnett/sounds/336267/"
+      ],
+      "clips": [
+        {
+          "name": "SW_Rain_Metal_Thin_01",
+          "family": "Thin",
+          "seed": 172953,
+          "duration_seconds": 0.10675,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "b77744d39661b2fcec7b178dda8ac2a599aa5e941064edec85bd4d04ef7d60a7",
+          "modes": [
+            {
+              "frequency_hz": 1446.1883798262677,
+              "decay_seconds": 0.01472785326143073,
+              "amplitude": 0.6927156355299756,
+              "phase_radians": 0.024651232187795052
+            },
+            {
+              "frequency_hz": 2270.152314962528,
+              "decay_seconds": 0.014967903016671088,
+              "amplitude": 0.5872279985760719,
+              "phase_radians": 0.17710527992063624
+            },
+            {
+              "frequency_hz": 3285.811002134237,
+              "decay_seconds": 0.014429283788193185,
+              "amplitude": 0.42670459665420524,
+              "phase_radians": 0.09405853931388203
+            },
+            {
+              "frequency_hz": 4256.618197876239,
+              "decay_seconds": 0.013669803729240924,
+              "amplitude": 0.486209072164637,
+              "phase_radians": 0.05678010757312604
+            },
+            {
+              "frequency_hz": 5507.015768238416,
+              "decay_seconds": 0.011359643537499634,
+              "amplitude": 0.36563951277988244,
+              "phase_radians": 0.17492112250193986
+            },
+            {
+              "frequency_hz": 6723.217800567238,
+              "decay_seconds": 0.010210780637319498,
+              "amplitude": 0.27198425305925894,
+              "phase_radians": -0.009096086985376506
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_01.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_02",
+          "family": "Thin",
+          "seed": 173006,
+          "duration_seconds": 0.1228125,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "021222a26d558fdf9ad10b22bf1ec57f516f0a456b05a3e9bf3731daa3885647",
+          "modes": [
+            {
+              "frequency_hz": 1542.2800239138664,
+              "decay_seconds": 0.018485833601815865,
+              "amplitude": 0.6786468843946317,
+              "phase_radians": 0.07316573927485037
+            },
+            {
+              "frequency_hz": 2380.6187710024305,
+              "decay_seconds": 0.01574728196777001,
+              "amplitude": 0.6416700403951447,
+              "phase_radians": -0.07011595876979222
+            },
+            {
+              "frequency_hz": 3265.4495131631465,
+              "decay_seconds": 0.011969084812278454,
+              "amplitude": 0.35635354250944595,
+              "phase_radians": -0.0837330429705382
+            },
+            {
+              "frequency_hz": 4123.385593999063,
+              "decay_seconds": 0.011382368560160899,
+              "amplitude": 0.5268195209422336,
+              "phase_radians": -0.050402590119136365
+            },
+            {
+              "frequency_hz": 5370.444213190704,
+              "decay_seconds": 0.010501720484412126,
+              "amplitude": 0.40951601636860413,
+              "phase_radians": -0.1729892272451599
+            },
+            {
+              "frequency_hz": 7072.398326841234,
+              "decay_seconds": 0.009603055897041074,
+              "amplitude": 0.3670688270992445,
+              "phase_radians": 0.016919978041982503
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_02.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_03",
+          "family": "Thin",
+          "seed": 173059,
+          "duration_seconds": 0.07945833333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "b6f14dd863464f7d8f15675a8e4d4bdf9017734aa52d508018802068dbbafc15",
+          "modes": [
+            {
+              "frequency_hz": 1575.9349398062297,
+              "decay_seconds": 0.011056920224945832,
+              "amplitude": 0.9159445896716758,
+              "phase_radians": -0.056585720395295136
+            },
+            {
+              "frequency_hz": 2477.4551490196627,
+              "decay_seconds": 0.008294249972475102,
+              "amplitude": 0.776703744852053,
+              "phase_radians": -0.03818188096609618
+            },
+            {
+              "frequency_hz": 3261.5470321861753,
+              "decay_seconds": 0.00870044342195211,
+              "amplitude": 0.48394717142030713,
+              "phase_radians": 0.10896980551223995
+            },
+            {
+              "frequency_hz": 4211.9271443186535,
+              "decay_seconds": 0.007445190222316917,
+              "amplitude": 0.39404057788107927,
+              "phase_radians": 0.0521219357646501
+            },
+            {
+              "frequency_hz": 5875.504267026568,
+              "decay_seconds": 0.006935807884335559,
+              "amplitude": 0.2936110355546504,
+              "phase_radians": 0.02171174721921365
+            },
+            {
+              "frequency_hz": 7266.391855369427,
+              "decay_seconds": 0.006931032148897152,
+              "amplitude": 0.24982253622726838,
+              "phase_radians": 0.14465856714535913
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_03.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_04",
+          "family": "Thin",
+          "seed": 173112,
+          "duration_seconds": 0.070875,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "ae5721597b47488dabb6283332b927c02da3973279bafd1ae7c7f5be0b7327e4",
+          "modes": [
+            {
+              "frequency_hz": 1609.0342601954767,
+              "decay_seconds": 0.009843927047284115,
+              "amplitude": 0.6714211188802566,
+              "phase_radians": -0.16581086082490729
+            },
+            {
+              "frequency_hz": 2585.830473217247,
+              "decay_seconds": 0.008121964460770405,
+              "amplitude": 0.6616973907107385,
+              "phase_radians": -0.028235398602210166
+            },
+            {
+              "frequency_hz": 3667.1120351147356,
+              "decay_seconds": 0.007970623174569575,
+              "amplitude": 0.4390379678655013,
+              "phase_radians": -0.1773779386262259
+            },
+            {
+              "frequency_hz": 4713.078674923641,
+              "decay_seconds": 0.006718491002300873,
+              "amplitude": 0.39413297304780065,
+              "phase_radians": -0.1361753433659964
+            },
+            {
+              "frequency_hz": 6167.713007719519,
+              "decay_seconds": 0.0063587860180981184,
+              "amplitude": 0.45965237607223297,
+              "phase_radians": 0.062164929570265565
+            },
+            {
+              "frequency_hz": 7590.059560725621,
+              "decay_seconds": 0.006623706064540379,
+              "amplitude": 0.3816781739100216,
+              "phase_radians": 0.1799176222431571
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_04.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_05",
+          "family": "Thin",
+          "seed": 173165,
+          "duration_seconds": 0.10847916666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "280402598260a00136c80e79be7d58e43d926f52d2af674f81ec65e0fc8a7e47",
+          "modes": [
+            {
+              "frequency_hz": 1331.066529577614,
+              "decay_seconds": 0.016071925875306568,
+              "amplitude": 0.7414999791739932,
+              "phase_radians": -0.1684577839035142
+            },
+            {
+              "frequency_hz": 2209.9812710487713,
+              "decay_seconds": 0.013312208546424134,
+              "amplitude": 0.6268881595296136,
+              "phase_radians": 0.03771934061412913
+            },
+            {
+              "frequency_hz": 2888.7155600289343,
+              "decay_seconds": 0.01100107903267105,
+              "amplitude": 0.5324521126467411,
+              "phase_radians": 0.059563166689599684
+            },
+            {
+              "frequency_hz": 3725.7462256778003,
+              "decay_seconds": 0.010400209712092682,
+              "amplitude": 0.5183108393646552,
+              "phase_radians": 0.11506293184978761
+            },
+            {
+              "frequency_hz": 5121.458442215348,
+              "decay_seconds": 0.009561362175077498,
+              "amplitude": 0.291644013024137,
+              "phase_radians": -0.15627770922774414
+            },
+            {
+              "frequency_hz": 6248.664240279471,
+              "decay_seconds": 0.010288682062761852,
+              "amplitude": 0.3019086835112118,
+              "phase_radians": 0.056896875086880266
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_05.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_06",
+          "family": "Thin",
+          "seed": 173218,
+          "duration_seconds": 0.11620833333333333,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "334309e87d7598a986af5b66a80cb1a4a03cead6c156278d0eb3f3b8e50810a1",
+          "modes": [
+            {
+              "frequency_hz": 1567.0002294106714,
+              "decay_seconds": 0.014966539923868854,
+              "amplitude": 0.9774098895558259,
+              "phase_radians": 0.1775103121338779
+            },
+            {
+              "frequency_hz": 2411.0379104209037,
+              "decay_seconds": 0.016483016356141914,
+              "amplitude": 0.7770050780741471,
+              "phase_radians": 0.07326094050400778
+            },
+            {
+              "frequency_hz": 3416.317136611425,
+              "decay_seconds": 0.012523773226820637,
+              "amplitude": 0.4221765611009295,
+              "phase_radians": -0.09702167823709672
+            },
+            {
+              "frequency_hz": 4588.260283566563,
+              "decay_seconds": 0.013584554009797231,
+              "amplitude": 0.30246359418584623,
+              "phase_radians": -0.051476919387414805
+            },
+            {
+              "frequency_hz": 5721.43727509726,
+              "decay_seconds": 0.011343914871647752,
+              "amplitude": 0.2953004405703386,
+              "phase_radians": -0.048655296035571616
+            },
+            {
+              "frequency_hz": 7218.65074072321,
+              "decay_seconds": 0.009756960034743443,
+              "amplitude": 0.23849128875266642,
+              "phase_radians": 0.03197435639501653
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_06.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_07",
+          "family": "Thin",
+          "seed": 173271,
+          "duration_seconds": 0.09252083333333333,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "020966a9edd9d88f6f34c937d3548ba7cd57a3a41f619115c76a8c453799c547",
+          "modes": [
+            {
+              "frequency_hz": 1635.225586231876,
+              "decay_seconds": 0.011851738691704384,
+              "amplitude": 0.7335975483041083,
+              "phase_radians": -0.14643442202609339
+            },
+            {
+              "frequency_hz": 2468.521468956719,
+              "decay_seconds": 0.010525233266138677,
+              "amplitude": 0.7379502236328986,
+              "phase_radians": -0.1517169091093436
+            },
+            {
+              "frequency_hz": 3394.598532626955,
+              "decay_seconds": 0.012606375371633633,
+              "amplitude": 0.5938760148328477,
+              "phase_radians": 0.11376759767498024
+            },
+            {
+              "frequency_hz": 4743.991439037545,
+              "decay_seconds": 0.011791091452847732,
+              "amplitude": 0.3567958994715394,
+              "phase_radians": -0.01961217898627854
+            },
+            {
+              "frequency_hz": 6103.603972541561,
+              "decay_seconds": 0.008274472687622424,
+              "amplitude": 0.4660554244889849,
+              "phase_radians": 0.004900984351076054
+            },
+            {
+              "frequency_hz": 7222.942970068334,
+              "decay_seconds": 0.009442103503175992,
+              "amplitude": 0.24449354885750288,
+              "phase_radians": 0.014050456866366773
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_07.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thin_08",
+          "family": "Thin",
+          "seed": 173324,
+          "duration_seconds": 0.0926875,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "2d3665d4b9f451db3cf1d84df334181a49305a2bbda1a4f4b6bd4a9f754a98da",
+          "modes": [
+            {
+              "frequency_hz": 1062.1170752300302,
+              "decay_seconds": 0.01278045317593473,
+              "amplitude": 0.7431205142367667,
+              "phase_radians": -0.09622720693190168
+            },
+            {
+              "frequency_hz": 1722.7518554894652,
+              "decay_seconds": 0.013000367486101077,
+              "amplitude": 0.5702642593316071,
+              "phase_radians": -0.11698764786001821
+            },
+            {
+              "frequency_hz": 2275.4949396617185,
+              "decay_seconds": 0.009933917360349332,
+              "amplitude": 0.4656978670851617,
+              "phase_radians": -0.1567540535338444
+            },
+            {
+              "frequency_hz": 2878.4427285650386,
+              "decay_seconds": 0.009756109953418196,
+              "amplitude": 0.31731403036889516,
+              "phase_radians": 0.1367057503885442
+            },
+            {
+              "frequency_hz": 4042.001835208679,
+              "decay_seconds": 0.00809365049260738,
+              "amplitude": 0.29981495411284015,
+              "phase_radians": 0.0861436946407475
+            },
+            {
+              "frequency_hz": 4932.524620034178,
+              "decay_seconds": 0.009359269867554509,
+              "amplitude": 0.2830546715326503,
+              "phase_radians": 0.0629265309988837
+            }
+          ],
+          "contact_weight": 0.32,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thin/SW_Rain_Metal_Thin_08.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_01",
+          "family": "Thick",
+          "seed": 173953,
+          "duration_seconds": 0.057666666666666665,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "e99b0e8fe6ed25dacb19e2f61a699e12177ffaab1bdc2bbe70490642cf6d900b",
+          "modes": [
+            {
+              "frequency_hz": 492.7408907112646,
+              "decay_seconds": 0.007391502321280132,
+              "amplitude": 0.914110139924297,
+              "phase_radians": 0.030344028705454967
+            },
+            {
+              "frequency_hz": 682.5466286320328,
+              "decay_seconds": 0.007047669026753986,
+              "amplitude": 0.6919561794384362,
+              "phase_radians": -0.07563532901355885
+            },
+            {
+              "frequency_hz": 1097.9563786566337,
+              "decay_seconds": 0.005670015319204493,
+              "amplitude": 0.42020870739031085,
+              "phase_radians": 0.13158965969078773
+            },
+            {
+              "frequency_hz": 1547.70001939821,
+              "decay_seconds": 0.0047845305669983245,
+              "amplitude": 0.42770675958262355,
+              "phase_radians": -0.007984470183431902
+            },
+            {
+              "frequency_hz": 2032.9588400980024,
+              "decay_seconds": 0.0038779306432334387,
+              "amplitude": 0.3363502211627947,
+              "phase_radians": -0.015007919340109338
+            },
+            {
+              "frequency_hz": 2821.13977400751,
+              "decay_seconds": 0.004232245853734054,
+              "amplitude": 0.34669265441448455,
+              "phase_radians": -0.1606344368604098
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_01.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_02",
+          "family": "Thick",
+          "seed": 174006,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "ab444beb9a87bdcd205ea38a36667142a60bc67911d6aabf30234f4f0632e83c",
+          "modes": [
+            {
+              "frequency_hz": 818.5819797784118,
+              "decay_seconds": 0.004755969691829522,
+              "amplitude": 0.7695066573776811,
+              "phase_radians": 0.08667498672470259
+            },
+            {
+              "frequency_hz": 1267.2284224951716,
+              "decay_seconds": 0.0044703144623744195,
+              "amplitude": 0.5870357167456649,
+              "phase_radians": 0.044645969976183
+            },
+            {
+              "frequency_hz": 1888.3700806590423,
+              "decay_seconds": 0.0038460327299390208,
+              "amplitude": 0.43499049355934405,
+              "phase_radians": 0.04887603023608056
+            },
+            {
+              "frequency_hz": 2641.184260565182,
+              "decay_seconds": 0.003394998213178629,
+              "amplitude": 0.3253280424665984,
+              "phase_radians": 0.1289096909722645
+            },
+            {
+              "frequency_hz": 3617.8357414107622,
+              "decay_seconds": 0.003066870698838227,
+              "amplitude": 0.36588974975540056,
+              "phase_radians": 0.003233511435223324
+            },
+            {
+              "frequency_hz": 4637.687081594621,
+              "decay_seconds": 0.00242191300308372,
+              "amplitude": 0.4041756165364074,
+              "phase_radians": 0.01306694868280081
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_02.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_03",
+          "family": "Thick",
+          "seed": 174059,
+          "duration_seconds": 0.049770833333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "5d05f174875ad548cdcb05fe1c7ebea7c6a18deb2571812506ed19c41f496e14",
+          "modes": [
+            {
+              "frequency_hz": 564.9304627992558,
+              "decay_seconds": 0.006276168462543886,
+              "amplitude": 0.976645523276899,
+              "phase_radians": -0.12392562964432965
+            },
+            {
+              "frequency_hz": 765.7736708856095,
+              "decay_seconds": 0.004987857902916899,
+              "amplitude": 0.6718735647581441,
+              "phase_radians": -0.1796420313872799
+            },
+            {
+              "frequency_hz": 1247.6113619934627,
+              "decay_seconds": 0.00490553813541373,
+              "amplitude": 0.5396579010916792,
+              "phase_radians": 0.16287759574588068
+            },
+            {
+              "frequency_hz": 1653.3904016833953,
+              "decay_seconds": 0.004095602071661247,
+              "amplitude": 0.4365893059898496,
+              "phase_radians": 0.03672673737304269
+            },
+            {
+              "frequency_hz": 2295.6238071923253,
+              "decay_seconds": 0.0030883571792487655,
+              "amplitude": 0.4279472098344418,
+              "phase_radians": -0.14826030445452043
+            },
+            {
+              "frequency_hz": 3078.2462000268183,
+              "decay_seconds": 0.0030854158159480827,
+              "amplitude": 0.32007602109433925,
+              "phase_radians": -0.11270059507480122
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_03.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_04",
+          "family": "Thick",
+          "seed": 174112,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "3da53e2deb38e3c5421a47dd48e27f0bb1d91eb4cbd177901dc5bb34b79d1c77",
+          "modes": [
+            {
+              "frequency_hz": 717.3004708649037,
+              "decay_seconds": 0.004273015306410576,
+              "amplitude": 0.9168865164271175,
+              "phase_radians": -0.16447669886292987
+            },
+            {
+              "frequency_hz": 1045.8769766043647,
+              "decay_seconds": 0.004890240717959073,
+              "amplitude": 0.6893551319925869,
+              "phase_radians": -0.11061762894802643
+            },
+            {
+              "frequency_hz": 1562.5951769560527,
+              "decay_seconds": 0.0038547444628543666,
+              "amplitude": 0.4579004470748399,
+              "phase_radians": -0.17236101479093136
+            },
+            {
+              "frequency_hz": 2381.052763531543,
+              "decay_seconds": 0.0030575935400606043,
+              "amplitude": 0.40946509416593363,
+              "phase_radians": -0.11731452107201097
+            },
+            {
+              "frequency_hz": 3200.803087428455,
+              "decay_seconds": 0.0035616562251849925,
+              "amplitude": 0.27820292163853944,
+              "phase_radians": -0.0696356204372546
+            },
+            {
+              "frequency_hz": 4212.850037025805,
+              "decay_seconds": 0.002971754958167623,
+              "amplitude": 0.4005355010575335,
+              "phase_radians": -0.08464488685404828
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_04.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_05",
+          "family": "Thick",
+          "seed": 174165,
+          "duration_seconds": 0.060833333333333336,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "085638186aba405e1f111a4602bcbee898a8071fba41a0a6a6c039c3cb6ff8b1",
+          "modes": [
+            {
+              "frequency_hz": 618.8559454009683,
+              "decay_seconds": 0.007902148219842448,
+              "amplitude": 1.0061683928325038,
+              "phase_radians": 0.027703080954455006
+            },
+            {
+              "frequency_hz": 890.0505040506894,
+              "decay_seconds": 0.005252889096415614,
+              "amplitude": 0.49425747701842604,
+              "phase_radians": 0.009290181264491326
+            },
+            {
+              "frequency_hz": 1431.430290355772,
+              "decay_seconds": 0.006127940478191779,
+              "amplitude": 0.5033462795527264,
+              "phase_radians": 0.10368127539552519
+            },
+            {
+              "frequency_hz": 2057.476347213654,
+              "decay_seconds": 0.004618469527706142,
+              "amplitude": 0.29963296085704877,
+              "phase_radians": 0.10163498074045735
+            },
+            {
+              "frequency_hz": 2732.233787389242,
+              "decay_seconds": 0.004325076330908204,
+              "amplitude": 0.31978620831005417,
+              "phase_radians": 0.16806083855915988
+            },
+            {
+              "frequency_hz": 3522.780865633268,
+              "decay_seconds": 0.0045064768148514595,
+              "amplitude": 0.2606811440691525,
+              "phase_radians": 0.13224173707130832
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_05.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_06",
+          "family": "Thick",
+          "seed": 174218,
+          "duration_seconds": 0.048541666666666664,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "a9e321b51ec161abb34fba0eca5b8a88b005b600e67abd9aff61c66191a417f8",
+          "modes": [
+            {
+              "frequency_hz": 607.6957595162775,
+              "decay_seconds": 0.005759351303307113,
+              "amplitude": 0.7624059236461371,
+              "phase_radians": 0.10811274034971002
+            },
+            {
+              "frequency_hz": 891.195694796558,
+              "decay_seconds": 0.005077851528381629,
+              "amplitude": 0.7210338940035775,
+              "phase_radians": 0.07438982133135003
+            },
+            {
+              "frequency_hz": 1355.5054328475612,
+              "decay_seconds": 0.005472947590083487,
+              "amplitude": 0.3646932684540502,
+              "phase_radians": -0.11645933226606338
+            },
+            {
+              "frequency_hz": 1983.7074507869577,
+              "decay_seconds": 0.004720577386292038,
+              "amplitude": 0.3696436929571712,
+              "phase_radians": -0.14156602119506215
+            },
+            {
+              "frequency_hz": 2737.660520378559,
+              "decay_seconds": 0.0041542081574779885,
+              "amplitude": 0.2827159659023796,
+              "phase_radians": 0.0393833545352128
+            },
+            {
+              "frequency_hz": 3609.9156194880484,
+              "decay_seconds": 0.0032453847716861195,
+              "amplitude": 0.2891450325765804,
+              "phase_radians": 0.12285185488417222
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_06.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_07",
+          "family": "Thick",
+          "seed": 174271,
+          "duration_seconds": 0.05452083333333333,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "d18abe3515db31a2d217aedb18b51b137524fdaa6e8cf412d9197331c02d7a52",
+          "modes": [
+            {
+              "frequency_hz": 706.2660421947085,
+              "decay_seconds": 0.0072016776558485604,
+              "amplitude": 0.9699826026587057,
+              "phase_radians": 0.07990198833455914
+            },
+            {
+              "frequency_hz": 1061.6836711548428,
+              "decay_seconds": 0.005285971015231715,
+              "amplitude": 0.6393437296918023,
+              "phase_radians": -0.03485806927315846
+            },
+            {
+              "frequency_hz": 1638.7041198250588,
+              "decay_seconds": 0.005820415781349956,
+              "amplitude": 0.5208238009072851,
+              "phase_radians": -0.03045804264156829
+            },
+            {
+              "frequency_hz": 2274.599191168416,
+              "decay_seconds": 0.0045993143427824285,
+              "amplitude": 0.3603622432456569,
+              "phase_radians": 0.03386171289889045
+            },
+            {
+              "frequency_hz": 3140.8345977190224,
+              "decay_seconds": 0.004150565100854479,
+              "amplitude": 0.43432646942952274,
+              "phase_radians": -0.08140292097025173
+            },
+            {
+              "frequency_hz": 4260.273705170816,
+              "decay_seconds": 0.0036421970081840583,
+              "amplitude": 0.3739748632405519,
+              "phase_radians": 0.07326031092153362
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_07.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Thick_08",
+          "family": "Thick",
+          "seed": 174324,
+          "duration_seconds": 0.051604166666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "1be0276f80342b2ec8694fb8deb57e338f2530fc4e0e44dff1f06b6c0faaae48",
+          "modes": [
+            {
+              "frequency_hz": 803.4017752719772,
+              "decay_seconds": 0.006088148337844326,
+              "amplitude": 0.8461371319777637,
+              "phase_radians": -0.1460572054970896
+            },
+            {
+              "frequency_hz": 1112.466242292373,
+              "decay_seconds": 0.007001939279543233,
+              "amplitude": 0.5671176469606715,
+              "phase_radians": -0.1451874968333419
+            },
+            {
+              "frequency_hz": 1682.4545918274075,
+              "decay_seconds": 0.004832336679273046,
+              "amplitude": 0.5906854005520186,
+              "phase_radians": -0.024523049930936958
+            },
+            {
+              "frequency_hz": 2335.8566915159026,
+              "decay_seconds": 0.004180935537600417,
+              "amplitude": 0.43653782112742306,
+              "phase_radians": 0.17774026418654892
+            },
+            {
+              "frequency_hz": 3288.631711773516,
+              "decay_seconds": 0.004551950614463012,
+              "amplitude": 0.2873627938088368,
+              "phase_radians": 0.15765275831996411
+            },
+            {
+              "frequency_hz": 4294.916621822381,
+              "decay_seconds": 0.003915975190542328,
+              "amplitude": 0.39800001801916923,
+              "phase_radians": -0.025435556177371837
+            }
+          ],
+          "contact_weight": 0.45,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Thick/SW_Rain_Metal_Thick_08.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_01",
+          "family": "Hollow",
+          "seed": 174953,
+          "duration_seconds": 0.10366666666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "04062d4a77a6a22dddc31e6142ed51c0c3a9276aacbe793f0b7994b1ce563d05",
+          "modes": [
+            {
+              "frequency_hz": 819.9637347115744,
+              "decay_seconds": 0.014737721169043582,
+              "amplitude": 0.9371650824735492,
+              "phase_radians": -0.09676530374071038
+            },
+            {
+              "frequency_hz": 1142.4213865497402,
+              "decay_seconds": 0.011077293846574309,
+              "amplitude": 0.48734994929931796,
+              "phase_radians": 0.09654522190200787
+            },
+            {
+              "frequency_hz": 1629.3470529169006,
+              "decay_seconds": 0.012845601836763258,
+              "amplitude": 0.5121651008597566,
+              "phase_radians": 0.015263440138824691
+            },
+            {
+              "frequency_hz": 2200.5028933273356,
+              "decay_seconds": 0.008713387100481921,
+              "amplitude": 0.4596927029776696,
+              "phase_radians": 0.0963564557059367
+            },
+            {
+              "frequency_hz": 2936.3489013436943,
+              "decay_seconds": 0.007900267676020983,
+              "amplitude": 0.32896930813401754,
+              "phase_radians": 0.053889330927585966
+            },
+            {
+              "frequency_hz": 3933.1151611085934,
+              "decay_seconds": 0.009215449138499487,
+              "amplitude": 0.37843480412037783,
+              "phase_radians": -0.10679867443477269
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_01.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_02",
+          "family": "Hollow",
+          "seed": 175006,
+          "duration_seconds": 0.14145833333333332,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "4528e32ef0eaa4bf9a1b825a3a53a38fdccdfb3b608635227e8ffaf82a8803eb",
+          "modes": [
+            {
+              "frequency_hz": 934.039892610715,
+              "decay_seconds": 0.020212666424090708,
+              "amplitude": 1.0654817428892795,
+              "phase_radians": 0.03849529493430934
+            },
+            {
+              "frequency_hz": 1357.6505310856583,
+              "decay_seconds": 0.01742327092672463,
+              "amplitude": 0.4994932189706701,
+              "phase_radians": -0.1641239827201646
+            },
+            {
+              "frequency_hz": 2047.0277666812995,
+              "decay_seconds": 0.014678473846676898,
+              "amplitude": 0.6148469077814877,
+              "phase_radians": 0.13779301946896388
+            },
+            {
+              "frequency_hz": 2686.202983742486,
+              "decay_seconds": 0.01485818410786155,
+              "amplitude": 0.36225203862801264,
+              "phase_radians": 0.17605061529383498
+            },
+            {
+              "frequency_hz": 3546.786943695754,
+              "decay_seconds": 0.011564768071892067,
+              "amplitude": 0.37768116846183664,
+              "phase_radians": 0.1541219678703326
+            },
+            {
+              "frequency_hz": 4741.776085295798,
+              "decay_seconds": 0.01283180947941985,
+              "amplitude": 0.24144832456106113,
+              "phase_radians": -0.17574843917670077
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_02.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_03",
+          "family": "Hollow",
+          "seed": 175059,
+          "duration_seconds": 0.12725,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "65358b37be39b46528a12e90e87103840cef2a9f35fd4d7d44f28921864c0749",
+          "modes": [
+            {
+              "frequency_hz": 715.2193147802903,
+              "decay_seconds": 0.018178390478218898,
+              "amplitude": 1.103926972139837,
+              "phase_radians": -0.019606851710383316
+            },
+            {
+              "frequency_hz": 1012.702707320436,
+              "decay_seconds": 0.015469851795553633,
+              "amplitude": 0.7693412337792308,
+              "phase_radians": -0.13779978416961264
+            },
+            {
+              "frequency_hz": 1485.4067656119605,
+              "decay_seconds": 0.01253629260842489,
+              "amplitude": 0.4217401130514306,
+              "phase_radians": 0.16553726388252427
+            },
+            {
+              "frequency_hz": 2001.9564707505203,
+              "decay_seconds": 0.01510853047669059,
+              "amplitude": 0.5162150789414004,
+              "phase_radians": -0.16795382580067428
+            },
+            {
+              "frequency_hz": 2610.019595354981,
+              "decay_seconds": 0.013647102206772656,
+              "amplitude": 0.286492877270997,
+              "phase_radians": 0.08433562826904734
+            },
+            {
+              "frequency_hz": 3602.7305387516903,
+              "decay_seconds": 0.012580240474450725,
+              "amplitude": 0.33666221417317604,
+              "phase_radians": -0.1434383509900054
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_03.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_04",
+          "family": "Hollow",
+          "seed": 175112,
+          "duration_seconds": 0.10670833333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "b508a4b71e8f833a429a4ac8a1b728d2005fa057830d000749401141ec9199b5",
+          "modes": [
+            {
+              "frequency_hz": 989.1882070031323,
+              "decay_seconds": 0.014280621284097376,
+              "amplitude": 0.7369865508140446,
+              "phase_radians": -0.01933225896055532
+            },
+            {
+              "frequency_hz": 1339.2358439763614,
+              "decay_seconds": 0.013586011800273154,
+              "amplitude": 0.744541857393325,
+              "phase_radians": 0.1569189344255248
+            },
+            {
+              "frequency_hz": 2062.14215625031,
+              "decay_seconds": 0.013328410468544851,
+              "amplitude": 0.4372710751718216,
+              "phase_radians": 0.004974589102938326
+            },
+            {
+              "frequency_hz": 2719.35146403712,
+              "decay_seconds": 0.01347986060343367,
+              "amplitude": 0.40414442287350577,
+              "phase_radians": -0.10562277620552371
+            },
+            {
+              "frequency_hz": 3384.7590880980083,
+              "decay_seconds": 0.01063141363855943,
+              "amplitude": 0.4260984660654139,
+              "phase_radians": -0.04279396767409291
+            },
+            {
+              "frequency_hz": 4980.753168417893,
+              "decay_seconds": 0.010497826271286861,
+              "amplitude": 0.36951678135549504,
+              "phase_radians": 0.0881193162460942
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_04.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_05",
+          "family": "Hollow",
+          "seed": 175165,
+          "duration_seconds": 0.11120833333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "7499f5d29b2bf68f91642b336ecd61f14df32bab7b6eaea7da47c31d1331e60f",
+          "modes": [
+            {
+              "frequency_hz": 627.1756443324324,
+              "decay_seconds": 0.014444758567472559,
+              "amplitude": 1.013322569305856,
+              "phase_radians": -0.018080921127221122
+            },
+            {
+              "frequency_hz": 939.8246130199581,
+              "decay_seconds": 0.015068160117736524,
+              "amplitude": 0.5379511371569003,
+              "phase_radians": 0.04158408139663175
+            },
+            {
+              "frequency_hz": 1404.4303322762546,
+              "decay_seconds": 0.013742344056006342,
+              "amplitude": 0.5956059888327144,
+              "phase_radians": 0.07103620289840418
+            },
+            {
+              "frequency_hz": 1846.0570933360068,
+              "decay_seconds": 0.014153790891020633,
+              "amplitude": 0.3891792327190759,
+              "phase_radians": 0.09636026705457257
+            },
+            {
+              "frequency_hz": 2272.0308765552995,
+              "decay_seconds": 0.010574351922953583,
+              "amplitude": 0.36943290027231707,
+              "phase_radians": 0.1407289283452381
+            },
+            {
+              "frequency_hz": 3122.4215023870424,
+              "decay_seconds": 0.010065428660217111,
+              "amplitude": 0.3397118298365737,
+              "phase_radians": 0.166126187125678
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_05.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_06",
+          "family": "Hollow",
+          "seed": 175218,
+          "duration_seconds": 0.09666666666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "f7c77020be0a9331f1b8226c6eae2ce1e8b2a799a2f0ce28ebd3c7bd32fda4b3",
+          "modes": [
+            {
+              "frequency_hz": 868.9227380382619,
+              "decay_seconds": 0.013575253797468743,
+              "amplitude": 0.6864979175968355,
+              "phase_radians": 0.009703956430249766
+            },
+            {
+              "frequency_hz": 1143.6967017882885,
+              "decay_seconds": 0.011578738649207842,
+              "amplitude": 0.4651825388606672,
+              "phase_radians": -0.059157856227830374
+            },
+            {
+              "frequency_hz": 1733.1889953269886,
+              "decay_seconds": 0.009741865414493891,
+              "amplitude": 0.4726342976836485,
+              "phase_radians": -0.05571583770770645
+            },
+            {
+              "frequency_hz": 2460.9571591904814,
+              "decay_seconds": 0.009360897331105804,
+              "amplitude": 0.4124987267841328,
+              "phase_radians": 0.158595909941664
+            },
+            {
+              "frequency_hz": 3004.973793931989,
+              "decay_seconds": 0.009189385390518202,
+              "amplitude": 0.37148250438647107,
+              "phase_radians": 0.08097635749340892
+            },
+            {
+              "frequency_hz": 4304.52756817672,
+              "decay_seconds": 0.007825838990815577,
+              "amplitude": 0.40203643086329616,
+              "phase_radians": -0.16879540994017586
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_06.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_07",
+          "family": "Hollow",
+          "seed": 175271,
+          "duration_seconds": 0.13177083333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "8074b8414d5060ab79fe0382198a33184ed8204bab04b7e13f0c8ac9ea2205a8",
+          "modes": [
+            {
+              "frequency_hz": 1081.616250216456,
+              "decay_seconds": 0.019695942394013066,
+              "amplitude": 0.6758479742280754,
+              "phase_radians": 0.10092543735435544
+            },
+            {
+              "frequency_hz": 1409.1243637623875,
+              "decay_seconds": 0.01583187571255504,
+              "amplitude": 0.5474184869105724,
+              "phase_radians": -0.16383228358405427
+            },
+            {
+              "frequency_hz": 2154.148127119574,
+              "decay_seconds": 0.013191802521518354,
+              "amplitude": 0.569300318335672,
+              "phase_radians": -0.0025855667019239748
+            },
+            {
+              "frequency_hz": 2908.2287376427275,
+              "decay_seconds": 0.010605689053450617,
+              "amplitude": 0.34909494538643865,
+              "phase_radians": -0.040746112020762976
+            },
+            {
+              "frequency_hz": 3787.4408459542065,
+              "decay_seconds": 0.012770508364857701,
+              "amplitude": 0.28160280588102127,
+              "phase_radians": -0.03569179078894141
+            },
+            {
+              "frequency_hz": 5152.146939113154,
+              "decay_seconds": 0.009120353391314949,
+              "amplitude": 0.3478541982185389,
+              "phase_radians": 0.11810664267455268
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_07.wav"
+        },
+        {
+          "name": "SW_Rain_Metal_Hollow_08",
+          "family": "Hollow",
+          "seed": 175324,
+          "duration_seconds": 0.11004166666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "sha256": "77f954215fc6ccac0bfb1d14e0e91811e6d806e719455ade58b479bbab3e3620",
+          "modes": [
+            {
+              "frequency_hz": 634.6160453174238,
+              "decay_seconds": 0.013448709597190502,
+              "amplitude": 0.7254593711909213,
+              "phase_radians": -0.15066714269918563
+            },
+            {
+              "frequency_hz": 932.1703282905811,
+              "decay_seconds": 0.014530392234663644,
+              "amplitude": 0.5090421818018074,
+              "phase_radians": 0.04982405919931504
+            },
+            {
+              "frequency_hz": 1300.0504000456858,
+              "decay_seconds": 0.012590692845873431,
+              "amplitude": 0.5777848592637017,
+              "phase_radians": -0.04316409504216573
+            },
+            {
+              "frequency_hz": 1839.118343017505,
+              "decay_seconds": 0.011682820605959541,
+              "amplitude": 0.49981646200418345,
+              "phase_radians": 0.050024636519064636
+            },
+            {
+              "frequency_hz": 2353.6411376703127,
+              "decay_seconds": 0.010022305299868488,
+              "amplitude": 0.3404751191616973,
+              "phase_radians": -0.005972767880747354
+            },
+            {
+              "frequency_hz": 3182.5472748590814,
+              "decay_seconds": 0.008864779831548368,
+              "amplitude": 0.34482440638681905,
+              "phase_radians": -0.09981114583484856
+            }
+          ],
+          "contact_weight": 0.3,
+          "wet_contact_weight": 0.1,
+          "procedural": true,
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Metal/Hollow/SW_Rain_Metal_Hollow_08.wav"
+        }
+      ],
+      "usage": "SC_Rain_Metal retains its path and selects only its 24 project-generated family clips, uniformly random without replacement, preselect=0 and non-looping. The Cue volume, pitch, SoundClass, attenuation and concurrency configuration are preserved. Unverified user-supplied recordings have been removed from both the playback tree and editor graph dependencies; the old waveform files remain unreferenced legacy assets pending final cook verification."
+    },
+    {
+      "name": "Original procedural leaf rain impact one-shots",
+      "origin": "Original project-created procedural single contacts. Not field recordings or a validated physical simulation. No external audio was downloaded, sampled or remixed.",
+      "license_note": "Original generated project assets; referenced research and recording descriptions informed artistic design, but their audio is not incorporated.",
+      "asset_count": 24,
+      "variants_per_family": {
+        "Soft": 8,
+        "Firm": 8,
+        "Wet": 8
+      },
+      "source_directory": "SourceAudio/Rain/Impacts/Leaf",
+      "content_directory": "Content/Audio/Rain/Impacts/Leaf",
+      "format": "Production WAV: 48kHz mono 24-bit PCM. UE imports internal 16-bit PCM; ForceInline, non-looping SoundWaves.",
+      "design": "Independently seeded band-limited short contacts with weak flex and friction. Soft leaves, firmer leaves and wet films use different spectra and envelopes. No entrained-bubble plink, ambient layer or room reverberation.",
+      "references": [
+        "https://academic.oup.com/jxb/article/73/4/1139/6430091",
+        "https://freesound.org/people/SamsterBirdies/sounds/584272/"
+      ],
+      "clips": [
+        {
+          "name": "SW_Rain_Leaf_Soft_01",
+          "family": "Soft",
+          "seed": 320253,
+          "duration_seconds": 0.05329166666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.005520529645160919,
+          "band_low_hz": 329.9989803600771,
+          "band_high_hz": 2922.848111760683,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 145.26246629342444,
+          "sha256": "474c0b98309433117b9e5747a2b6a5b951d2e4bf22f99f6a2e72d77b607ab1ac",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_01.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_02",
+          "family": "Soft",
+          "seed": 320306,
+          "duration_seconds": 0.058979166666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.006588826516437584,
+          "band_low_hz": 298.74995150032964,
+          "band_high_hz": 2646.07099900292,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 103.5449565010715,
+          "sha256": "385823c51046de5909454843ba2c7111d4157221f2d960fac94bae659f8959b3",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_02.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_03",
+          "family": "Soft",
+          "seed": 320359,
+          "duration_seconds": 0.044645833333333336,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.004588057580299121,
+          "band_low_hz": 351.9760269423841,
+          "band_high_hz": 3117.5019529182596,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 112.19400834005961,
+          "sha256": "9e4840832a4fe292eb248ebfd36b11640bff81022d6c70501e82afea51f8fad4",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_03.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_04",
+          "family": "Soft",
+          "seed": 320412,
+          "duration_seconds": 0.044625,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.004645311351218447,
+          "band_low_hz": 323.0082960611504,
+          "band_high_hz": 2860.930622255904,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 95.56935120328363,
+          "sha256": "b9abc32384ea84948c613b67ed373c3e534b8de51617a9b45aee48f24c50dc8f",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_04.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_05",
+          "family": "Soft",
+          "seed": 320465,
+          "duration_seconds": 0.05625,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.006123869401420701,
+          "band_low_hz": 311.6700950557873,
+          "band_high_hz": 2760.5065562084023,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 97.34666064485188,
+          "sha256": "4e57951c649e2ad431625b34ea085217e3a013b3010f54e5e7e33b9a25a34dbc",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_05.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_06",
+          "family": "Soft",
+          "seed": 320518,
+          "duration_seconds": 0.06322916666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.00703750864865775,
+          "band_low_hz": 332.7710474364295,
+          "band_high_hz": 2947.4007058655184,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 115.6360118305916,
+          "sha256": "1699ed4dfb4519195e4b06ed4c381ac329dd4aac04a837843261eb5c43b45f98",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_06.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_07",
+          "family": "Soft",
+          "seed": 320571,
+          "duration_seconds": 0.059104166666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.006353949705754414,
+          "band_low_hz": 368.1562861755277,
+          "band_high_hz": 3260.812820411817,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 124.3971902195703,
+          "sha256": "eb17a2125eb4675f07f496a8c0d913e86aefd5c2b91e7f4beefac72bdc7889e9",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_07.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Soft_08",
+          "family": "Soft",
+          "seed": 320624,
+          "duration_seconds": 0.05583333333333333,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.00612949409078188,
+          "band_low_hz": 378.9208206130748,
+          "band_high_hz": 3356.1558397158055,
+          "friction_amount": 0.17,
+          "weak_flex_frequency_hz": 103.25750506647196,
+          "sha256": "1825cd12cd087d73ece69ef530d92baa96776f28d4425c6eebc8ebba2cccd96a",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Soft/SW_Rain_Leaf_Soft_08.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_01",
+          "family": "Firm",
+          "seed": 321953,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.003943654953243119,
+          "band_low_hz": 928.1525640602235,
+          "band_high_hz": 5259.531196341267,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 142.91730254315786,
+          "sha256": "629d1557e4f22595d4be33541e4965690c1ac3dc38fe12cf9d69b515b9370772",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_01.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_02",
+          "family": "Firm",
+          "seed": 322006,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0035675433015121493,
+          "band_low_hz": 1011.0120791110745,
+          "band_high_hz": 5729.068448296089,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 86.7885066368542,
+          "sha256": "1c396523ad61137653958756445b3afb791c16849fb38992fc0bd1eaa6351ce2",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_02.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_03",
+          "family": "Firm",
+          "seed": 322059,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.004570614823959448,
+          "band_low_hz": 906.3512286355809,
+          "band_high_hz": 5135.990295601625,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 111.6538429091999,
+          "sha256": "9d0beb80cc3dacacdab4454a2dc2ee0afd47ed4e13e60a7ce2332ce185854479",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_03.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_04",
+          "family": "Firm",
+          "seed": 322112,
+          "duration_seconds": 0.04472916666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.005003617353373501,
+          "band_low_hz": 771.6443501321901,
+          "band_high_hz": 4372.6513174157435,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 86.40928979032796,
+          "sha256": "0f6fd44b929c5d8a14814c19a578033de8bc40a0138f7ec61dbb4e07a7a6801c",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_04.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_05",
+          "family": "Firm",
+          "seed": 322165,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0036734970302889046,
+          "band_low_hz": 935.2068441849361,
+          "band_high_hz": 5299.505450381305,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 159.01860852687582,
+          "sha256": "2bb8c805f71e68b9a63ec0e8666dfbdabeb6e03b880519eec1495912a421091a",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_05.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_06",
+          "family": "Firm",
+          "seed": 322218,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.004385540541109718,
+          "band_low_hz": 1027.347396375949,
+          "band_high_hz": 5821.635246130378,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 140.4368908133397,
+          "sha256": "36548131d703479a45a015849cb4481a5b6c4eb9803acd983375d0650c95aa56",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_06.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_07",
+          "family": "Firm",
+          "seed": 322271,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.004286648019259894,
+          "band_low_hz": 789.0147775948376,
+          "band_high_hz": 4471.08373970408,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 126.4187229489132,
+          "sha256": "e75f4a8942078905778b4815d1221ec166c8556888fb390acf5ee769edcf0847",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_07.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Firm_08",
+          "family": "Firm",
+          "seed": 322324,
+          "duration_seconds": 0.0435,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0036125199005661167,
+          "band_low_hz": 850.031641154995,
+          "band_high_hz": 4816.845966544972,
+          "friction_amount": 0.07,
+          "weak_flex_frequency_hz": 168.869899133817,
+          "sha256": "a7d80e6a78e86510c67c1c84243424a80ca8dcb246473403a8d123515957c3e8",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Firm/SW_Rain_Leaf_Firm_08.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_01",
+          "family": "Wet",
+          "seed": 323653,
+          "duration_seconds": 0.06320833333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.007537114554108504,
+          "band_low_hz": 457.44571351696214,
+          "band_high_hz": 3293.609137322127,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 140.78944071595518,
+          "sha256": "625e4b264744757c800263cc3a2812745012d1fb308c4bc745d2e80855082100",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_01.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_02",
+          "family": "Wet",
+          "seed": 323706,
+          "duration_seconds": 0.07966666666666666,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.009446368139369877,
+          "band_low_hz": 452.0097799186432,
+          "band_high_hz": 3254.470415414231,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 131.69589105466923,
+          "sha256": "cf338dab090fcc5cb1bb5edbe30d36e3c4f33057bf11be41c21651f0d5408a18",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_02.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_03",
+          "family": "Wet",
+          "seed": 323759,
+          "duration_seconds": 0.0693125,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.008069206505288069,
+          "band_low_hz": 482.1350810423072,
+          "band_high_hz": 3471.372583504612,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 108.8906760797949,
+          "sha256": "84b59f4e1d52653018ca6cf92f3c8bd7b905c7b2c5f905b034592fcc82bcfb57",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_03.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_04",
+          "family": "Wet",
+          "seed": 323812,
+          "duration_seconds": 0.07239583333333334,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.008796700200729576,
+          "band_low_hz": 482.3586076815151,
+          "band_high_hz": 3472.981975306908,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 133.19329854084583,
+          "sha256": "24a333c944366d0ddcfb6720ec8c09e07dd720d7d13bd58ab4410f0d6359f6a2",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_04.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_05",
+          "family": "Wet",
+          "seed": 323865,
+          "duration_seconds": 0.0645,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0077643092592382165,
+          "band_low_hz": 455.2167949954573,
+          "band_high_hz": 3277.5609239672926,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 151.25805256950719,
+          "sha256": "47dfba3e42a9eab1a170b3ba253a441c851b3f5effba1a3aab2f79a4a29bd8e4",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_05.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_06",
+          "family": "Wet",
+          "seed": 323918,
+          "duration_seconds": 0.056354166666666664,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0066340066687897775,
+          "band_low_hz": 435.64681136893597,
+          "band_high_hz": 3136.6570418563388,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 158.49032164439083,
+          "sha256": "ea433ece29f1fc8a80970b5afaf057493c9d8a5e8821e21b17080f6b7c6a0df1",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_06.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_07",
+          "family": "Wet",
+          "seed": 323971,
+          "duration_seconds": 0.07466666666666667,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.00897942230547666,
+          "band_low_hz": 478.26612155284676,
+          "band_high_hz": 3443.5160751804965,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 117.9012260729659,
+          "sha256": "b66c74f788fe6a2b63e33e3c85c461f7b51f3a333bb93a8a0884ce40935f08d0",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_07.wav"
+        },
+        {
+          "name": "SW_Rain_Leaf_Wet_08",
+          "family": "Wet",
+          "seed": 324024,
+          "duration_seconds": 0.0595,
+          "sample_rate_hz": 48000,
+          "bits": 24,
+          "channels": 1,
+          "contact_decay_seconds": 0.0070791730122104725,
+          "band_low_hz": 500.1655575198305,
+          "band_high_hz": 3601.1920141427795,
+          "friction_amount": 0.09,
+          "weak_flex_frequency_hz": 166.5181409447925,
+          "sha256": "1d3b5ecf067ed3f8bce71305ceb09a7ab07a4742638ef7b4913941056c13626d",
+          "sampled_recordings": [],
+          "source": "SourceAudio/Rain/Impacts/Leaf/Wet/SW_Rain_Leaf_Wet_08.wav"
+        }
+      ],
+      "usage": "SC_Rain_Leaf retains its path and selects only its 24 project-generated family clips, uniformly random without replacement, preselect=0 and non-looping. The Cue volume, pitch, SoundClass, attenuation and concurrency configuration are preserved. Unverified user-supplied recordings have been removed from both the playback tree and editor graph dependencies; the old waveform files remain unreferenced legacy assets pending final cook verification."
+    }
+  ],
+  "project_tree_collision": {
+    "name": "Poplar A/B native capsule canopy collision",
+    "origin": "Project-authored native capsule approximations for the existing licensed Megaplants tree meshes; fitted to the previous canopy bounds.",
+    "license_note": "The original Megaplants model licensing is unchanged. This entry records the additional project-authored collision geometry only.",
+    "asset_count": 2,
+    "content_directory": "Content/Art/Plants/Trees/Poplar/Physics",
+    "physical_material": "Content/Art/Shared/Physics/PM_Leaf",
+    "surface_type": "Leaf (SurfaceType3)",
+    "geometry": "One native Sphyl capsule per tree variant attached to the root bone; no convex hulls. Query-only canopy approximation.",
+    "trees": [
+      {
+        "variant": "A",
+        "physics_asset": "/Game/Art/Plants/Trees/Poplar/Physics/PHYS_Poplar_A.PHYS_Poplar_A",
+        "skeletal_mesh": "/Game/Art/Plants/Trees/Poplar/Meshes/Tree_Black_Poplar_01_A.Tree_Black_Poplar_01_A",
+        "center_cm": [
+          33.973,
+          34.173,
+          1699.956
+        ],
+        "bodies": 1,
+        "radius_cm": 261.689819,
+        "cylinder_length_cm": 2495.233643,
+        "capsules": 1
+      },
+      {
+        "variant": "B",
+        "physics_asset": "/Game/Art/Plants/Trees/Poplar/Physics/PHYS_Poplar_B.PHYS_Poplar_B",
+        "skeletal_mesh": "/Game/Art/Plants/Trees/Poplar/Meshes/Tree_Black_Poplar_01_B.Tree_Black_Poplar_01_B",
+        "center_cm": [
+          -9.385,
+          70.951,
+          1389.084
+        ],
+        "bodies": 1,
+        "radius_cm": 400.052704,
+        "cylinder_length_cm": 1666.493042,
+        "capsules": 1
+      }
+    ],
+    "runtime_initialization": "None. Scene components save QueryOnly/Visibility/PM_Leaf. Native capsules do not require the former InitializeLeafCollision convex workaround; function and call removed. Existing missing-hit-material fallback remains in the rain callback.",
+    "verification": "Fresh PIE reload without custom collision initialization: 126/126 three-axis scene queries hit Leaf; 42/42 per-instance outside queries missed. Not a validation of every GPU particle contact.",
+    "limits": "Static reference-pose canopy proxy; does not follow GPU Dynamic Wind deformation. Per-leaf contact, impact leaf motion and splashes are not implemented. Unused C/D variants were not processed."
+  },
+  "project_region_mask": {
+    "name": "Oasis static region mask",
+    "origin": "Project-authored static RGBA mask; the source was renamed to match its project asset without changing PNG contents.",
+    "content_asset": "Content/Art/Ground/Terrain/Textures/T_Regions.uasset",
+    "source_file": "SourceArt/Ground/Terrain/Textures/T_Regions.png",
+    "source_sha256": "2ac4ebb157412eb24ed3f2ee6fb31991e3434671512c134b031eeac46ac9d08f",
+    "channels": {
+      "R": "Forest-floor soil blend",
+      "G": "Narrow wet shoreline",
+      "B": "Rock exclusion area for grass placement",
+      "A": "Suitability of the three grass islands"
+    },
+    "usage": "Static terrain/placement mask. Material reads R/G/A; grass placement uses B/A. It is not a dynamic rain-wetness map.",
+    "mapping": "World XY -10000..10000 cm; UV=(WorldPosition.xy+10000)/20000. sRGB disabled; address mode Clamp."
+  },
+  "project_intro_comic": {
+    "description": "The First Rain: four wordless pages and twelve progressively revealed panels. Shared shoreline and north breach continuity.",
+    "runtime": "/Game/Blueprints/UI/Comic/WBP_OpeningComic",
+    "production_tool": "Built-in imagegen",
+    "reference_policy": "Real map and character features were observed and described in text. Image inputs were project-authored spatial guides and OneCloud illustrations.",
+    "storyboard": "Docs/OpeningDesign.md",
+    "pages": [
+      {
+        "slug": "01_Oasis",
+        "size": [
+          1671,
+          941
+        ],
+        "prompt": "Use case: illustration-story. A finished wide landscape 16:9 page of a WORDLESS indie action-adventure game graphic novel, exactly three separately framed RECTANGULAR panels, no inset or extra frame. Thin black panel outlines, straight clean cream gutters 16–22 pixels, narrow cream margin. No visual element crosses a gutter. No text, letters, words, speech bubbles, numbers, watermark, page number or captions. Style across every page: grounded mature hand-inked color manga, beautiful deliberate tapered dark brush contours, confidently shaped solid shadows, cool midnight indigo / gray-blue moonlit color holds, low-saturation brown sand and dark teal water, selective warm color, a few disciplined screen tones. Bold clean shape readability, graphic economy. Warm materials remain subdued by night. Flat shadow steps; no fog bloom or cinematic gradients, stock concept-art finish, glossy render, pencil noise, exaggerated childlike faces, giant mountains or fantasy buildings. Environment is a small sacred lake in open desert dunes, a narrow teal ring of water with a low grassy center island, one tall leaning oak with sparse uneven branches, a pale knee-to-waist-high upright wedge stone with two smaller stones at its roots, sparse very thin upright poplars, two-tier rust sandstone slab just outside north edge, and near north waterline a low pale slanted rock with a small dark narrow-neck clay jug. Low silver fog stays around outer dry sand. Design sheet lock: fairy is an original young adult woman with plum dark-brown hair in a single high braided bun and one muted pink flower, garnet sleeveless fitted top, olive leaf skirt, brown boots, four thin BLUE dragonfly wings. Only two monsters: a broad adult dark bronze plated hooded caster with ochre scarf and a single small amber visor slit, and a wolf-sized pale ash-grey spider with compact low body, muted beige abdomen and eight long thin ash-white jointed legs. No extra monster or oversized spider. Magic colors remain differentiated: cool silver for barrier, dark purple for enemy spell and siphon, warm white-gold for fairy ritual vapor, cool blue/white for natural rain.\n\nPAGE 1 THE HOME. Use the first attached original spatial layout guide as exact composition for the top panel: gray-brown region is open dry sand, blue is lake, olive is island, thin white ellipse is BARRIER GROUND FOOTPRINT, complete all around on dry land, low fog sits alongside it. Illustration, not a diagram: render textures, perspective and silhouettes as believable overhead terrain within the geometry. Preserve the circular footprint as a pale narrow continuous ward anchored around all four sides, including its bright near segment along the bottom. All water, island, oak, pale stone and dry inner shore are inside it. Do not draw a dome, a standalone distant arc, or line through water. North/top right has the rust rock, top left two thin poplars. Panel 2, lower-left: medium intimate side view under the oak, fairy kneels beside the small pale ritual stone and cups one pale gold drop of sacred lake water over a wilted seedling. A leaf visibly unfolds as the drop touches it, no sparkles except a tiny gold at the leaf vein. Panel 3, lower-right: far away in cracked dry sand, close-up of the crouched armored caster with amber slit pointing at an old weathered slate in its other hand, small stone carving clearly depicts an island oak and a water droplet enclosed in an oval, no lettering. Show the face and slender forelegs of the pale spider beside the caster looking at the tablet, distant horizontal silver light in fog. Night with cool dark shadows. Follow the guide panel layout, wide top and two below.",
+        "source": "SourceArt/UI/Comic/Pages/T_ComicPage_01_Oasis.png",
+        "sha256": "0dcd7a1278cb3a6b694d6907bb698e1f457508d490b9c2cc301b899b2b66b1d2",
+        "page": "/Game/Blueprints/UI/Comic/Pages/WBP_ComicPage_01_Oasis",
+        "panels": [
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_01_01",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_01_01.png",
+            "rect_px": [
+              14,
+              14,
+              1643,
+              487
+            ],
+            "style": "Soft",
+            "sha256": "777e0e8e2c3d5fb6ac3f100ad62b68c44b5c8f8b00319909bca3c4a5d9cfd934"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_01_02",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_01_02.png",
+            "rect_px": [
+              14,
+              515,
+              880,
+              410
+            ],
+            "style": "Soft",
+            "sha256": "baf775f754954aa530ec8c4856ec2a746e6a3439c8ad06b5c63affe9d41f4090"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_01_03",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_01_03.png",
+            "rect_px": [
+              908,
+              515,
+              749,
+              410
+            ],
+            "style": "Impact",
+            "sha256": "71d6f4064434cdf21f8811b62115d1f158f395b9f76005bfb9c89576ce0c7163"
+          }
+        ]
+      },
+      {
+        "slug": "02_Breach",
+        "size": [
+          1672,
+          941
+        ],
+        "prompt": "Use case: illustration-story. A finished wide landscape 16:9 page of a WORDLESS indie action-adventure game graphic novel, exactly three separately framed RECTANGULAR panels, no inset or extra frame. Thin black panel outlines, straight clean cream gutters 16–22 pixels, narrow cream margin. No visual element crosses a gutter. No text, letters, words, speech bubbles, numbers, watermark, page number or captions. Style across every page: grounded mature hand-inked color manga, beautiful deliberate tapered dark brush contours, confidently shaped solid shadows, cool midnight indigo / gray-blue moonlit color holds, low-saturation brown sand and dark teal water, selective warm color, a few disciplined screen tones. Bold clean shape readability, graphic economy. Warm materials remain subdued by night. Flat shadow steps; no fog bloom or cinematic gradients, stock concept-art finish, glossy render, pencil noise, exaggerated childlike faces, giant mountains or fantasy buildings. Environment is a small sacred lake in open desert dunes, a narrow teal ring of water with a low grassy center island, one tall leaning oak with sparse uneven branches, a pale knee-to-waist-high upright wedge stone with two smaller stones at its roots, sparse very thin upright poplars, two-tier rust sandstone slab just outside north edge, and near north waterline a low pale slanted rock with a small dark narrow-neck clay jug. Low silver fog stays around outer dry sand. Design sheet lock: fairy is an original young adult woman with plum dark-brown hair in a single high braided bun and one muted pink flower, garnet sleeveless fitted top, olive leaf skirt, brown boots, four thin BLUE dragonfly wings. Only two monsters: a broad adult dark bronze plated hooded caster with ochre scarf and a single small amber visor slit, and a wolf-sized pale ash-grey spider with compact low body, muted beige abdomen and eight long thin ash-white jointed legs. No extra monster or oversized spider. Magic colors remain differentiated: cool silver for barrier, dark purple for enemy spell and siphon, warm white-gold for fairy ritual vapor, cool blue/white for natural rain.\n\nPAGE 2 THE BREACH. Follow the original staging guide's three-panel layout: two panels across top, a wide full-width aerial at bottom. Upper left (outside at night): from oblique side of the north passage, armored caster and spider are both left of a narrow translucent rising silver wall in the mid-plane, caster extends a gauntlet toward the wall, a tiny dark violet charge gathers. Only the INNER side of that wall at screen right contains dry bank leading to a small visible portion of teal lake. The wall is planted on the dry sand; it is a tangent segment of a much wider ring. A two-layer rust sandstone slab is next to the caster on the outside, two narrow black poplars on the inside. Upper right: visually matched tight insert, close-up of armored fingertips aiming from LEFT and cracking the same thin silver wall, snapped silver edges around a jagged dark purple hole, a single pale jointed foreleg approaching LEFT to RIGHT. Keep one graphic crack, no second arc or environment. BOTTOM FULL WIDTH is the important geometry from the original staging guide. Depict landscape from high above, match the guide precisely. View on top of terrain with NO horizon. Center is teal lake surrounding grassy island with one oak. Outside the shoreline is a conspicuous ring of dry sand. One thin silvery oval barrier lies ON THAT DRY SAND, all four sectors visible including side and nearest/bottom segment. Preserve all oval segments EXCEPT one short torn gap at the far upper center (12 o'clock), edged with a little violet. Low blue-grey fog rings the perimeter including the gap. Broad tiny armored caster with ochre scarf remains UPWARD OF THE GAP OUTSIDE. Pale spider facing DOWNWARD toward center is completely BELOW THE GAP INSIDE on dry sand, feet on sand before water, clearly separated from caster by the same boundary. One small dry-shore clay jug with pale rock in between the spider and teal water just to its right. Top-right rust slab, two narrow poplars inside top-left. Do not replace the big ground ring with a vertical portal or distant arch. Preserve shape and position of the illustrated ground footprint from the attached guide.",
+        "source": "SourceArt/UI/Comic/Pages/T_ComicPage_02_Breach.png",
+        "sha256": "92eb05b16e7c82b09e9c59df0c26596d703257be7ed003be6b513b83a86b8920",
+        "page": "/Game/Blueprints/UI/Comic/Pages/WBP_ComicPage_02_Breach",
+        "panels": [
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_02_01",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_02_01.png",
+            "rect_px": [
+              14,
+              14,
+              891,
+              411
+            ],
+            "style": "Impact",
+            "sha256": "c455e628f1d60609f675c6d0e516ae9e20f23858f14eeb1c3a7c1e9864f1ebb0"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_02_02",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_02_02.png",
+            "rect_px": [
+              920,
+              14,
+              738,
+              411
+            ],
+            "style": "Strike",
+            "sha256": "1b1d9fd703a486be62b81716a6412699300dc217bd4a194fb2dc8723c7d83a15"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_02_03",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_02_03.png",
+            "rect_px": [
+              14,
+              440,
+              1644,
+              485
+            ],
+            "style": "Impact",
+            "sha256": "2a09223f69e0fdeab9b945fe06d05c8418230d24a71f9da5ebbe219617ffd23c"
+          }
+        ]
+      },
+      {
+        "slug": "03_Siphon",
+        "size": [
+          1670,
+          941
+        ],
+        "prompt": "Use case: illustration-story. A finished wide landscape 16:9 page of a WORDLESS indie action-adventure game graphic novel, exactly three separately framed RECTANGULAR panels, no inset or extra frame. Thin black panel outlines, straight clean cream gutters 16–22 pixels, narrow cream margin. No visual element crosses a gutter. No text, letters, words, speech bubbles, numbers, watermark, page number or captions. Style across every page: grounded mature hand-inked color manga, beautiful deliberate tapered dark brush contours, confidently shaped solid shadows, cool midnight indigo / gray-blue moonlit color holds, low-saturation brown sand and dark teal water, selective warm color, a few disciplined screen tones. Bold clean shape readability, graphic economy. Warm materials remain subdued by night. Flat shadow steps; no fog bloom or cinematic gradients, stock concept-art finish, glossy render, pencil noise, exaggerated childlike faces, giant mountains or fantasy buildings. Environment is a small sacred lake in open desert dunes, a narrow teal ring of water with a low grassy center island, one tall leaning oak with sparse uneven branches, a pale knee-to-waist-high upright wedge stone with two smaller stones at its roots, sparse very thin upright poplars, two-tier rust sandstone slab just outside north edge, and near north waterline a low pale slanted rock with a small dark narrow-neck clay jug. Low silver fog stays around outer dry sand. Design sheet lock: fairy is an original young adult woman with plum dark-brown hair in a single high braided bun and one muted pink flower, garnet sleeveless fitted top, olive leaf skirt, brown boots, four thin BLUE dragonfly wings. Only two monsters: a broad adult dark bronze plated hooded caster with ochre scarf and a single small amber visor slit, and a wolf-sized pale ash-grey spider with compact low body, muted beige abdomen and eight long thin ash-white jointed legs. No extra monster or oversized spider. Magic colors remain differentiated: cool silver for barrier, dark purple for enemy spell and siphon, warm white-gold for fairy ritual vapor, cool blue/white for natural rain.\n\nPAGE 3 THE FALLING WATERLINE. Left panel tall vertical covering 41% width and full usable height. Two panels in right column divided 45:55 vertically. Left tall: medium-wide view diagonally along north lakebank, the pale spider with low closed mouth is fully on dry sand on the left, a narrow-neck dark clay jug sits to its right on dry sand beside a pale slanted wet rock. A SINGLE clearly connected cyan stream with thin dark-purple outlines begins in the lake at bottom left, arches UP through air, then bends DOWN and drops clearly into the open top of the dark jar. Keep the stream entirely detached from the spider mouth and jar exterior. An isolated restrained violet point on spider foreleg hints it directs the stream. There is no other magic action. Water blue, dry sand ochre and gray, distinct. Upper right: CLOSE crop of the same pale rock and edge of the very same jug on the left, clear dark damp stripe on the rock clearly ABOVE a lower blue waterline, exposed strip of dark wet sand underneath, sparse reed. Lower right: medium close-up on the island, the same blue-winged fairy with floral dark bun notices falling water and turns toward the single small pale wedge-shaped ritual stone by the oak, one hand touches ground as she starts up, decisive eyeline toward stone. Warm colors subdued. Keep gold and clouds out until page 4.",
+        "source": "SourceArt/UI/Comic/Pages/T_ComicPage_03_Siphon.png",
+        "sha256": "f0c8195417b63b1c8ced9fbd1dfe4af92f6453dd8b6eb46f46e5ffdbe25a702a",
+        "page": "/Game/Blueprints/UI/Comic/Pages/WBP_ComicPage_03_Siphon",
+        "revision_prompts": [
+          "Edit the FIRST attached image, a three-panel finished wordless comic page. SECOND attachment is a reference for the physics of the water arc ONLY. Keep first image's dark midnight lighting, designs, exact three panel rectangles, gutters, aspect, and bottom-right fairy panel. Change two things only. 1) In the tall left panel, remove the entire existing cyan arc, including the connection on the spider leg. Put spider's near leg back on the sand so it cannot touch the new stream. Now reproduce the flow geometry from the second attachment: one clear continuous slender turquoise arc rises from a VISIBLE RING RIPPLE ON THE FOREGROUND LAKE at lower left, crosses the dry sand in midair and curls down inside the open dark pitcher at right. Make the cyan line attach directly to that visible foreground ripple. The entire water ribbon is visibly separated from all spider limbs, face and mouth. Keep pale slanted rock on the ground immediately LEFT of the jar as in the first image. 2) In the top-right close panel, show the same pale slanted rock at left and dark pitcher on the DRY BANK at right, with foreground current turquoise water edge distinctly below the old damp mark on the rock. Keep the pitcher entirely clear of water. Use the FIRST page's illustrations, cool colors, and linework. Keep bottom-right panel identical. No other adjustments, no new frames or words.",
+          "Precise cleanup of this wordless three-panel comic page. Change ONLY the upper-right panel: completely remove the cropped brown clay jug on its left edge, including its shadow. Fill the freed area with natural dry taupe sand and a few unobtrusive reeds matching adjacent linework. Keep the slanted pale rock with dark damp band above the low blue current water and its exact aspect. This is a tighter look at the wet mark on the rock; the jar is outside this shot. Keep every pixel of the tall left panel (particularly the continuous cyan arc from lake ripple to open jar) and bottom-right panel exactly as in the input. Preserve the dark moonlit palette, fine dark inks, unchanged page rectangles, border, margin and cream gutters. No words."
+        ],
+        "panels": [
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_03_01",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_03_01.png",
+            "rect_px": [
+              8,
+              8,
+              716,
+              924
+            ],
+            "style": "Impact",
+            "sha256": "3fbdb7d7a34bbfc3316ec1a96d2bf936d0db1d2becd17dc98495b7d6acbb7dcf"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_03_02",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_03_02.png",
+            "rect_px": [
+              734,
+              8,
+              929,
+              418
+            ],
+            "style": "Soft",
+            "sha256": "6e615a67584feb6023a0bc563cf058341ae1d303034a3d9070ce1bc396973b30"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_03_03",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_03_03.png",
+            "rect_px": [
+              734,
+              436,
+              929,
+              496
+            ],
+            "style": "Soft",
+            "sha256": "dad30a99b54f700e3cd511328c0884fa4c8099dfe27047a0489516a190af5674"
+          }
+        ]
+      },
+      {
+        "slug": "04_Rain",
+        "size": [
+          1671,
+          941
+        ],
+        "prompt": "Use case: illustration-story. A finished wide landscape 16:9 page of a WORDLESS indie action-adventure game graphic novel, exactly three separately framed RECTANGULAR panels, no inset or extra frame. Thin black panel outlines, straight clean cream gutters 16–22 pixels, narrow cream margin. No visual element crosses a gutter. No text, letters, words, speech bubbles, numbers, watermark, page number or captions. Style across every page: grounded mature hand-inked color manga, beautiful deliberate tapered dark brush contours, confidently shaped solid shadows, cool midnight indigo / gray-blue moonlit color holds, low-saturation brown sand and dark teal water, selective warm color, a few disciplined screen tones. Bold clean shape readability, graphic economy. Warm materials remain subdued by night. Flat shadow steps; no fog bloom or cinematic gradients, stock concept-art finish, glossy render, pencil noise, exaggerated childlike faces, giant mountains or fantasy buildings. Environment is a small sacred lake in open desert dunes, a narrow teal ring of water with a low grassy center island, one tall leaning oak with sparse uneven branches, a pale knee-to-waist-high upright wedge stone with two smaller stones at its roots, sparse very thin upright poplars, two-tier rust sandstone slab just outside north edge, and near north waterline a low pale slanted rock with a small dark narrow-neck clay jug. Low silver fog stays around outer dry sand. Design sheet lock: fairy is an original young adult woman with plum dark-brown hair in a single high braided bun and one muted pink flower, garnet sleeveless fitted top, olive leaf skirt, brown boots, four thin BLUE dragonfly wings. Only two monsters: a broad adult dark bronze plated hooded caster with ochre scarf and a single small amber visor slit, and a wolf-sized pale ash-grey spider with compact low body, muted beige abdomen and eight long thin ash-white jointed legs. No extra monster or oversized spider. Magic colors remain differentiated: cool silver for barrier, dark purple for enemy spell and siphon, warm white-gold for fairy ritual vapor, cool blue/white for natural rain.\n\nPAGE 4 FIRST RAIN. Two top panels split 40% / 60%, top row takes 48% height, wide full-width hero panel below. Upper left close action: fairy's single open palm presses the same pale wedge-shaped upright ritual stone at the oak roots, one fine warm gold fissure, garnet top and a sliver of a blue dragonfly wing for continuity. Upper right landscape from water height, wide silhouette: a slender continuous ribbon of WARM WHITE PALE GOLD VAPOR starts with little rings on the ACTUAL SURFACE of teal lake near grassy island, rises through clear air and connects to the underside of ONE slate blue rain cloud above the oak. The island's waterline exposes wet sand. No rainfall yet. Only sky, cloud, distant dunes, silhouetted oak, poplar pair, and a little fog, no second storm. Lower hero: low over shoulder from east of the island, fairy on left edge looks toward north dry bank. Below on right, same pale spider low on thin pale legs beside the same dark narrow-neck jug and pale slanted rock, the armored caster stays off screen. A first small strike of rain falling from the cloud gives a single blue-white splash just beside spider and breaks a fine violet wisp over jar; spider is still in position. Foreground blue wings and some reeds, lake opens to right, low mist and rust sandstone mark the bank, dark slate cloud in upper part. Emphasize the calm moment before real defense, just a sparse first scatter of rain. Wordless, deep cool night tone and clean silhouettes.",
+        "source": "SourceArt/UI/Comic/Pages/T_ComicPage_04_Rain.png",
+        "sha256": "d21db7e4e97c14881b55404eb6bb7e579b030f2b3d524328885198e61535019b",
+        "page": "/Game/Blueprints/UI/Comic/Pages/WBP_ComicPage_04_Rain",
+        "revision_prompts": [
+          "Edit the attached final wordless three-panel comic page. Match the framing and scale of the game's third-person camera more closely. Keep exact page layout and existing cream gutters, ink borders, dark midnight colors, and fully preserve upper-left ritual image. Upper right keep the gold ribbon rising directly out of the water and the ONE slate cloud and the same landscape; give the oak a taller slender trunk and a sparser, more vertical asymmetrical crown. Change the BOTTOM WIDE panel to this camera staging: a few meters above the grassy eastern island shoreline, looking slightly down toward a low straight open sandy north bank. The same fairy is an original stylized full-body character in the left third, seen from behind, hovering just above the shore with relaxed dangling boots and four narrow transparent icy blue wings stretched sideways, dark burgundy bun with dusty pink flower, muted mauve fitted bodice and visually distinct fresh leaf-green layered petal skirt. She is modest in scale, visible head to boots and occupies only 30% of panel height. Sparse dry reeds and a diagonal green grassy edge in lower left; broad TEAL shallow water in lower foreground. Across the water show one small grey boulder with its narrow-neck dark ceramic jug just to its right. Farther to their right, a small spider on the same dry shoreline with very small body, eight very thin bone-gray legs and little neutral ash-brown abdomen, about one-sixth of overall panel height including legs. A single rain splash beside the spider and a broken purple trace over the jug. Keep a tall thin dark poplar behind rust-orange horizontally layered low rock at screen left, a second rock cluster on the right side, low gray horizontal fog further behind, only rolling dunes in the distance. Heavy slate cloud high at the very top, sparse rain. No figure or rock cropping except grass/reeds at near frame edge, no close-up, no large castle-like mesas, no moon visible in this panel. Quiet balanced graphic composition. Keep the art's premium drawn brush ink lines, cool muted palette and flat shape shadows. No text."
+        ],
+        "panels": [
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_04_01",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_04_01.png",
+            "rect_px": [
+              8,
+              8,
+              643,
+              462
+            ],
+            "style": "Soft",
+            "sha256": "85b4fa6fd596ef0ed6a3b31dec94deb3cae790c89dd251c12e59bd75e95cbe13"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_04_02",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_04_02.png",
+            "rect_px": [
+              661,
+              8,
+              1002,
+              462
+            ],
+            "style": "Impact",
+            "sha256": "14ff838ad288cc65a12b663c9d6f5189dabbec9360a8c257fbdfb332578f832f"
+          },
+          {
+            "texture": "/Game/Art/UI/Comic/Panels/T_Comic_04_03",
+            "source": "SourceArt/UI/Comic/Panels/T_Comic_04_03.png",
+            "rect_px": [
+              8,
+              479,
+              1655,
+              452
+            ],
+            "style": "Strike",
+            "sha256": "111ec4d7e74f58b0d4f0493010f3b6d44e95d02a4f8c85d54fa438f3e1324fe4"
+          }
+        ]
+      }
+    ]
+  },
+  "project_opening_music": {
+    "title": "A Kind Of Hope",
+    "artist": "Scott Buckley",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.scottbuckley.com.au/library/a-kind-of-hope/",
+    "asset": "/Game/Audio/Music/SW_OpeningMusic",
+    "production_source": "SourceAudio/Music/SW_OpeningMusic.mp3",
+    "sha256": "d0dc554c0db9ea208b4f59e4f0c1b4446aa7ef622c7bfeffca278130a46c51f1",
+    "duration_seconds": 342.600544,
+    "looping": true,
+    "volume": 0.18,
+    "use": "One continuous UI music component throughout the comic; no individual panel effects; fades on entry/exit and stops on removal.",
+    "attribution_file": "Licenses/Music/OpeningMusic.txt",
+    "visible_credit_widget": "WBP_OpeningComic / MusicCredit",
+    "modifications": "Original source unchanged; UE import plus playback gain/loop/fades only.",
+    "download": "curl explicitly bypassed process proxy settings; HTTP 200; transparent system routing not independently verified."
+  },
+  "project_weather_audio": {
+    "name": "40 CC0 water / splash / slime SFX",
+    "publisher": "rubberduck",
+    "url": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_directory": "SourceAudio/Weather/Originals",
+    "content_directory": [
+      "Content/Audio/Weather",
+      "Content/Audio/Rain/Impacts/Flesh"
+    ],
+    "usage": "Eight short wet skin impact variants and natural-water layers in weather skills. Selected source recordings retained for reimport provenance.",
+    "modifications": "Mono conversion, transient crop, smooth band filtering, finite fades and level matching. Skill layers combine these sources with existing project metal/thunder recordings; snow and star warning include original synthesized tones."
+  }
+}

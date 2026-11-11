@@ -1,0 +1,27 @@
+# Unreal-generated build products, caches and local editor state.
+/Binaries/
+/Intermediate/
+/DerivedDataCache/
+/Saved/
+/.vs/
+/Build/Windows/FileOpenOrder/
+
+# UE-generated IDE solutions; regenerate from OneCloud.uproject.
+/*.sln
+/*.slnx
+
+# Public source repository: licensed assets and reimport sources stay local.
+/Content/
+/SourceArt/
+/SourceAudio/
+
+# Submission bundles contain personal details and packaged builds.
+/小核桃_OneCloud_提交表/
+/小核桃_OneCloud_提交表.zip
+
+# Per-user editor files and credentials.
+*.suo
+*.user
+.env
+.env.*
+!.env.example

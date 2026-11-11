@@ -1,0 +1,7 @@
+'Borealis' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+
+Track https://www.scottbuckley.com.au/library/borealis/
+License https://creativecommons.org/licenses/by/4.0/
+Usage terms https://www.scottbuckley.com.au/library/using-this-music/
+
+The original recording is retained in SourceAudio/ForestLake/SW_ForestInterlude.mp3. The game selects an entry point and fades the recording at phase transitions.

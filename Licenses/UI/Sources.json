@@ -1,0 +1,20 @@
+{
+  "name": "Lucide",
+  "version": "0.468.0",
+  "license": "ISC; retained Feather MIT portions",
+  "source": "https://lucide.dev",
+  "icons": [
+    "droplet",
+    "cloud",
+    "sprout",
+    "skull",
+    "cloud-rain",
+    "snowflake",
+    "cloud-hail",
+    "chevrons-right",
+    "lock-keyhole",
+    "droplet-off",
+    "pause"
+  ],
+  "changes": "White raster exports with 2.2 unit stroke; original SVG retained in SourceArt/UI/Hud/Svg"
+}

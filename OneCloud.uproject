@@ -1,0 +1,41 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "{1C0D238F-4442-11F4-8A3F-3DB59218CFCB}",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "OneCloud",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine"
+      ]
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "AndroidFileServer",
+      "Enabled": false
+    },
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+    {
+      "Name": "ProceduralVegetationEditor",
+      "Enabled": true
+    },
+    {
+      "Name": "DynamicWind",
+      "Enabled": true
+    },
+    {
+      "Name": "Water",
+      "Enabled": true
+    }
+  ]
+}

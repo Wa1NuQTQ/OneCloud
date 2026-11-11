@@ -1,0 +1,12 @@
+# Keep source diffs stable across Windows and GitHub.
+* text=auto
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.cs text eol=crlf
+*.ini text eol=crlf
+*.md text eol=lf
+*.json text eol=lf
+*.uproject text eol=lf
+*.webp binary
+*.png binary
+*.jpg binary
