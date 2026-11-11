@@ -4,7 +4,7 @@
 
 - 项目入口是 `OneCloud.uproject`，使用 UE 5.8。默认地图是 `/Game/Maps/L_ForestLake`，全局模式在 `Config/DefaultEngine.ini` 配置，森林地图通过 World Settings 使用 `BP_ForestLakeGameMode`。
 - 自有资源按 `Content/Art`、`Audio`、`Blueprints`、`Input`、`Maps` 分类。美术按对象分组，组内用 `Meshes`、`Materials`、`Textures` 等表示资源用途。素材包与导入模板沿用各自的包路径。
-- `Source/OneCloud` 是单个运行时模块。按 `Game`、`Player`、`Enemies`、`Weather`、`UI` 查找相关逻辑。圣湖规则在 `Game/SacredLake`，开场和局内界面分放 `UI/Comic` 与 `UI/Hud`。蓝图配置场景、资产引用和参数。入口索引见 [README](README.md)，职责和运行链路见 [架构](Docs/Architecture.md)，实作步骤见 [学习指南](Docs/Architecture.md#动手读代码)。
+- `Source/OneCloud` 是单个运行时模块。按 `Game`、`Player`、`Enemies`、`Weather`、`UI` 查找相关逻辑。圣湖规则在 `Game/SacredLake`，开场和局内界面分放 `UI/Comic` 与 `UI/Hud`。蓝图配置场景、资产引用和参数。入口索引见 [项目结构](Docs/Architecture.md#从哪里开始看)，职责和运行链路见 [架构](Docs/Architecture.md)，实作步骤见 [学习指南](Docs/Architecture.md#动手读代码)。
 
 ## 命名和验证
 
